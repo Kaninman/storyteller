@@ -1,0 +1,53 @@
+properties:
+  file.name:
+    displayName: Dread Powers
+views:
+  - type: table
+    name: All
+    filters:
+      or:
+        - feature == ["numina"]
+        - feature == ["dread power"]
+    order:
+      - file.name
+      - dots
+      - source
+      - page
+      - file.folder
+    sort:
+      - property: source
+        direction: DESC
+    columnSize:
+      note.page: 23
+  - type: table
+    name: Dread Powers
+    filters:
+      and:
+        - feature == ["dread power"]
+    order:
+      - file.name
+      - dots
+      - source
+      - page
+      - file.folder
+    sort:
+      - property: source
+        direction: DESC
+    columnSize:
+      note.page: 23
+  - type: table
+    name: Numina
+    filters:
+      and:
+        - feature == ["numina"]
+    order:
+      - file.name
+      - dots
+      - source
+      - page
+      - file.folder
+    sort:
+      - property: source
+        direction: DESC
+    columnSize:
+      note.page: 23

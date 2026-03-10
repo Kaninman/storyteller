@@ -1,0 +1,13 @@
+filters:
+  and:
+    - feature.contains("condition")
+    - note["condition-type"].contains("fractured")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - source
+      - page
+    columnSize:
+      note.source: 276

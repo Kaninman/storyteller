@@ -1,0 +1,27 @@
+---
+prerequisite:
+dots:
+  - "1"
+  - "2"
+  - "3"
+  - "4"
+  - "5"
+source: Chronicles of Darkness
+page: 54
+feature:
+  - merit
+merit-type:
+  - social merit
+  - universal merit
+  - connections-merit
+dg-publish: true
+tags:
+  - merit
+  - merit/universal/social
+  - merit/universal/connections
+  - merit/universal
+---
+Effect: Your character has a crew of workers or assistants at his disposal. They may be housekeepers, designers, research assistants, animators, cheap thugs, or whatever else makes sense. For every dot in this Merit, choose one type of assistant, and one Skill. At any reasonable time, his staff can take actions using that Skill. These actions automatically garner a single success. While not useful in contested actions, this guarantees success on minor, mundane activities. 
+
+Note that your character may have employees without requiring the Staff Merit; Staff simply adds a mechanical advantage for those groups.
+#merit/social

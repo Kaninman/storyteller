@@ -1,0 +1,18 @@
+filters:
+  and:
+    - '!note["character-type"].isEmpty()'
+    - '!note["character-type"].contains("generic")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - character-type
+      - splat
+      - potency
+      - status
+      - group
+      - faction
+    sort:
+      - property: type
+        direction: ASC

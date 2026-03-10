@@ -1,0 +1,144 @@
+filters:
+  and:
+    - feature.contains("signet")
+properties:
+  file.name:
+    displayName: Signet Power
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - queen
+      - splat
+      - size
+      - page
+    sort: []
+  - type: table
+    name: Acqua
+    filters:
+      and:
+        - queen == "currents"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - queen
+      - splat
+      - size
+      - page
+    sort: []
+  - type: table
+    name: Aria
+    filters:
+      and:
+        - queen == "spades"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - queen
+      - splat
+      - size
+      - page
+    sort: []
+  - type: table
+    name: Fuoco
+    filters:
+      and:
+        - queen == "swords"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - queen
+      - splat
+      - size
+      - page
+    sort: []
+  - type: table
+    name: Legno
+    filters:
+      and:
+        - queen == "flowers"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - queen
+      - splat
+      - size
+      - page
+    sort: []
+  - type: table
+    name: Terra
+    filters:
+      and:
+        - queen == "jewels"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - queen
+      - splat
+      - size
+      - page
+    sort: []
+  - type: table
+    name: Lacrima
+    filters:
+      and:
+        - queen == "tears"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - queen
+      - splat
+      - size
+      - page
+    sort: []
+  - type: table
+    name: Tempestra
+    filters:
+      and:
+        - queen == "storms"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - queen
+      - splat
+      - size
+      - page
+    sort: []
+  - type: table
+    name: Specchio
+    filters:
+      and:
+        - queen == "mirrors"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - queen
+      - splat
+      - size
+      - page
+    sort: []
+  - type: table
+    name: Sanguinae
+    filters:
+      and:
+        - queen == link("Natalie Brassard", "thorns")
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - queen
+      - splat
+      - size
+      - page
+    sort: []

@@ -1,0 +1,167 @@
+filters:
+  and:
+    - '!note["merit-type"].isEmpty()'
+properties:
+  file.name:
+    displayName: Merits
+views:
+  - type: table
+    name: Overall Merits
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - merit-type
+      - feature
+      - source
+      - page
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: feature
+        direction: DESC
+      - property: source
+        direction: ASC
+    columnSize:
+      note.source: 324
+  - type: table
+    name: Universal Merit
+    filters:
+      and:
+        - note["merit-type"].contains("universal merit")
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - merit-type
+      - source
+      - page
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: source
+        direction: ASC
+    columnSize:
+      note.merit-type: 757
+      note.source: 1047
+  - type: table
+    name: Werewolf Merits
+    filters:
+      and:
+        - note["merit-type"].contains("werewolf merit")
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - merit-type
+      - page
+      - source
+      - file.tags
+    sort:
+      - property: source
+        direction: ASC
+  - type: table
+    name: Dhampir Merits
+    filters:
+      and:
+        - note["merit-type"].contains("dhampir merit")
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - merit-type
+      - source
+      - page
+    sort:
+      - property: feature
+        direction: DESC
+      - property: source
+        direction: ASC
+    columnSize:
+      note.merit-type: 757
+      note.source: 621
+  - type: table
+    name: Lost Boys Merits
+    filters:
+      and:
+        - note["merit-type"].contains("lost boys")
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - merit-type
+      - source
+      - page
+    sort:
+      - property: feature
+        direction: DESC
+      - property: source
+        direction: ASC
+  - type: table
+    name: Supernatural Merits
+    filters:
+      and:
+        - note["merit-type"].contains("supernatural merit")
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - merit-type
+      - source
+      - page
+    sort:
+      - property: feature
+        direction: DESC
+      - property: source
+        direction: ASC
+    columnSize:
+      note.merit-type: 757
+      note.source: 549
+  - type: table
+    name: Princess Merits
+    filters:
+      and:
+        - note["merit-type"].contains("princess merit")
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - merit-type
+      - source
+      - page
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: feature
+        direction: DESC
+      - property: source
+        direction: ASC
+    columnSize:
+      note.prerequisite: 574
+      note.merit-type: 757
+      note.source: 215
+  - type: table
+    name: Splat Merits
+    filters:
+      and:
+        - note["merit-type"].contains("splat merit")
+    order:
+      - file.name
+      - dots
+      - file.tags
+      - prerequisite
+      - merit-type
+      - source
+      - page
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: feature
+        direction: DESC
+      - property: source
+        direction: ASC
+    columnSize:
+      note.prerequisite: 574
+      note.merit-type: 757
+      note.source: 215

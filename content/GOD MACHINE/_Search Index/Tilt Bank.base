@@ -1,0 +1,25 @@
+filters:
+  and:
+    - feature.contains("tilt")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - feature.contains("tilt")
+    order:
+      - file.name
+      - tilt-type
+      - source
+      - page
+      - file.tags
+    sort:
+      - property: tilt-type
+        direction: DESC
+      - property: file.tags
+        direction: ASC
+      - property: type
+        direction: ASC
+  - type: cards
+    name: QuickPull
+    image: note.thumbnail

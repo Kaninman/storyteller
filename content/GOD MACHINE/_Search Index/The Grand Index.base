@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Terms Index
+    filters:
+      and:
+        - '!note["term-type"].isEmpty()'
+    order:
+      - file.name
+      - term-type
+      - source
+      - page
+      - file.tags
+  - type: table
+    name: Lore Archive
+    filters:
+      and:
+        - '!note["lore-type"].isEmpty()'
+    order:
+      - file.name
+      - lore-type
+      - source
+      - page

@@ -1,0 +1,208 @@
+filters:
+  and:
+    - feature.contains("upgrade")
+    - "!charm.isEmpty()"
+views:
+  - type: table
+    name: Charm Upgrades Total
+    order:
+      - file.name
+      - charm
+      - queen
+      - feature
+      - source
+      - page
+    sort:
+      - property: charm
+        direction: ASC
+    columnSize:
+      file.name: 220
+      note.feature: 89
+      note.source: 179
+  - type: table
+    name: Anthem Upgrades
+    filters:
+      and:
+        - charm == "anthem"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68
+  - type: table
+    name: Buster Upgrades
+    filters:
+      and:
+        - charm == "buster"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68
+  - type: table
+    name: Conjure Upgrades
+    filters:
+      and:
+        - charm == "conjure"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68
+  - type: table
+    name: Detect Upgrades
+    filters:
+      and:
+        - charm == "detect"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68
+  - type: table
+    name: Force Upgrades
+    filters:
+      and:
+        - charm == "force"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68
+  - type: table
+    name: Kiai Upgrades
+    filters:
+      and:
+        - charm == "kiai"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68
+  - type: table
+    name: Plea Upgrades
+    filters:
+      and:
+        - charm == "plea"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68
+  - type: table
+    name: Restoration Upgrades
+    filters:
+      and:
+        - charm == "restoration"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68
+  - type: table
+    name: Step Upgrades
+    filters:
+      and:
+        - charm == "step"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68
+  - type: table
+    name: Ward Upgrades
+    filters:
+      and:
+        - charm == "ward"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68
+  - type: table
+    name: Illusion Upgrades
+    filters:
+      and:
+        - charm == "illusion"
+    order:
+      - file.name
+      - queen
+      - feature
+      - charm
+      - source
+      - page
+    columnSize:
+      file.name: 157
+      note.feature: 89
+      note.source: 182
+      note.page: 68

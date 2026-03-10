@@ -1,0 +1,69 @@
+filters:
+  and:
+    - file.folder.contains("CORE RULES")
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: splat
+      direction: ASC
+    order:
+      - splat
+      - power-type
+      - file.name
+      - charm
+      - feature
+      - condition-type
+      - file.tags
+    sort:
+      - property: power-type
+        direction: DESC
+      - property: feature
+        direction: DESC
+      - property: file.tags
+        direction: DESC
+      - property: queen
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: splat
+        direction: DESC
+      - property: merit-type
+        direction: DESC
+      - property: dg-publish
+        direction: DESC
+    columnSize:
+      file.name: 183
+      note.condition-type: 334
+      file.tags: 420
+  - type: table
+    name: View
+    order:
+      - file.name
+      - feature
+      - dg-publish
+  - type: table
+    name: Tagging Conditions
+    filters:
+      and:
+        - note["condition-type"] != "manifestation-condition"
+        - '!note["condition-type"].isEmpty()'
+        - file.folder.containsAny("Crystal")
+    order:
+      - file.name
+      - tags
+      - condition-type
+    sort:
+      - property: condition-type
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: View 2
+    order:
+      - file.name
+      - dg-publish

@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - feature.contains("numina")
+    order:
+      - file.name
+      - feature
+      - prerequisite
+      - dots
+      - source
+      - page

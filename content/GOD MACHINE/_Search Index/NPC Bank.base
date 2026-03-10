@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - note["character-type"].contains("NPC")
+    order:
+      - file.name
+      - faction
+      - group
+      - potency
+      - status
+      - splat
+      - file.tags
+    sort:
+      - property: splat
+        direction: ASC

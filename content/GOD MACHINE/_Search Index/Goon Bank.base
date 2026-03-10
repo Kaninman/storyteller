@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - note["character-type"].contains("generic")
+    order:
+      - file.name
+      - entity
+      - splat
+      - narrative-role
+      - character-type

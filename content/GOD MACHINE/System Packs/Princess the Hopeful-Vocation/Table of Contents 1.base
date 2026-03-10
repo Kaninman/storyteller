@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("Princess the Hopeful-Crystal")
+    order:
+      - file.name
+      - file.tags
+  - type: table
+    name: Princess the Hopeful Crystal Edition
+    filters:
+      and:
+        - file.folder.contains("System Packs/Princess the Hopeful-Crystal")
+    order:
+      - file.name
+      - feature
+      - source
+      - page
+    sort:
+      - property: page
+        direction: DESC
+      - property: feature
+        direction: ASC

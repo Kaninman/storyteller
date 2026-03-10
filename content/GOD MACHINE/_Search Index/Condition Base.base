@@ -1,0 +1,71 @@
+filters:
+  and:
+    - feature.contains("condition")
+properties:
+  file.name:
+    displayName: Conditions
+views:
+  - type: table
+    name: All
+    groupBy:
+      property: condition-type
+      direction: ASC
+    order:
+      - file.name
+      - condition-type
+      - splat
+      - prerequisite
+      - source
+      - page
+      - file.tags
+    sort:
+      - property: condition-type
+        direction: DESC
+      - property: file.name
+        direction: DESC
+      - property: type
+        direction: ASC
+    columnSize:
+      note.type: 216
+      note.prerequisite: 191
+  - type: cards
+    name: CardView
+    image: note.thumbnail
+  - type: table
+    name: Manifestations
+    filters:
+      and:
+        - note["condition-type"].contains("manifestation-condition")
+    order:
+      - file.name
+      - condition-type
+      - splat
+      - prerequisite
+      - source
+      - page
+    sort:
+      - property: type
+        direction: ASC
+    columnSize:
+      note.type: 216
+      note.prerequisite: 191
+      note.source: 602
+  - type: table
+    name: Base Conditions
+    filters:
+      and:
+        - '!note["condition-type"].containsAny("manifestation-condition", "fractured")'
+        - splat.isEmpty()
+    order:
+      - file.name
+      - condition-type
+      - splat
+      - prerequisite
+      - source
+      - page
+    sort:
+      - property: type
+        direction: ASC
+    columnSize:
+      note.type: 216
+      note.prerequisite: 191

@@ -1,0 +1,89 @@
+filters:
+  and:
+    - feature.contains("merit")
+properties:
+  file.name:
+    displayName: Merits
+views:
+  - type: table
+    name: Overall Merits
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - page
+      - source
+      - feature
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: feature
+        direction: DESC
+      - property: source
+        direction: ASC
+  - type: table
+    name: Universal Merit
+    filters:
+      and:
+        - feature.contains("universal merit")
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - feature
+      - source
+      - page
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: feature
+        direction: DESC
+      - property: source
+        direction: ASC
+    columnSize:
+      note.feature: 359
+      note.source: 215
+  - type: table
+    name: Fighting Merit
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - feature
+      - source
+      - page
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: feature
+        direction: DESC
+      - property: source
+        direction: ASC
+    columnSize:
+      note.feature: 359
+      note.source: 215
+  - type: table
+    name: Social Merits
+    filters:
+      and:
+        - note["merit-type"].contains("social merit")
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - feature
+      - source
+      - page
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: feature
+        direction: DESC
+      - property: source
+        direction: ASC
+    columnSize:
+      note.feature: 359
+      note.source: 215

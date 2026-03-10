@@ -1,0 +1,142 @@
+filters:
+  and:
+    - and:
+        - feature.contains("splat-power")
+properties:
+  file.name:
+    displayName: Power
+views:
+  - type: table
+    name: Overall Power Index
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - feature
+      - splat
+      - source
+      - page
+  - type: table
+    name: Princess-Crystal
+    filters:
+      and:
+        - and:
+            - splat == "C-princess"
+    order:
+      - file.name
+      - feature
+      - splat
+      - source
+      - page
+    sort:
+      - property: feature
+        direction: ASC
+    indentProperties: false
+    imageAspectRatio: 1
+    cardSize: 170
+    columnSize:
+      note.source: 285
+  - type: table
+    name: Demon Powers
+    filters:
+      and:
+        - splat == "demon"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - dots
+      - splat
+      - source
+      - page
+  - type: table
+    name: Werewolf Powers
+    filters:
+      and:
+        - splat == "werewolf"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - dots
+      - splat
+      - source
+      - page
+  - type: table
+    name: Mummy Powers
+    filters:
+      and:
+        - splat == "mummy"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - dots
+      - splat
+      - source
+      - page
+  - type: table
+    name: Changeling Powers
+    filters:
+      and:
+        - splat == "changeling"
+    order:
+      - file.name
+      - prerequisite
+      - feature
+      - dots
+      - splat
+      - source
+      - page
+  - type: table
+    name: Dhampir Powers
+    filters:
+      and:
+        - splat == "dhampir"
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - feature
+      - splat
+      - source
+      - page
+    sort:
+      - property: dots
+        direction: ASC
+  - type: table
+    name: Mortal Powers
+    filters:
+      and:
+        - splat == "mortal"
+    order:
+      - file.name
+      - dots
+      - prerequisite
+      - feature
+      - splat
+      - source
+      - page
+    sort:
+      - property: dots
+        direction: ASC
+  - type: table
+    name: Princess-Vocation
+    filters:
+      and:
+        - and:
+            - splat == "v-princess"
+    order:
+      - file.name
+      - feature
+      - splat
+      - source
+      - page
+    sort:
+      - property: feature
+        direction: ASC
+    indentProperties: false
+    imageAspectRatio: 1
+    cardSize: 170
+    columnSize:
+      note.source: 285
