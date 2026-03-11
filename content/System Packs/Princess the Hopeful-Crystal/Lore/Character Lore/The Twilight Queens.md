@@ -12,7 +12,6 @@ tags:
 ---
 
 # Tags
-
 #lore
 
 #pth-c

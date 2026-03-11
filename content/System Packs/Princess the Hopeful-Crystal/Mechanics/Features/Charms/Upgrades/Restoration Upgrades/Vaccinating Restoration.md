@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 An ounce of prevention is worth a pound of cure, and all that. You can mend to fortify against injury in the future, bolstering defenses physical and spiritual.
 
 If you choose a specific type of injury you could treat but the patient or object doesn’t have right now, then they gain the Vaccinated Condition (p. 128), which will activate Restoration on them when they suffer that injury.

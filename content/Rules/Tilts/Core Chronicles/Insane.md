@@ -6,10 +6,9 @@ tilt-type:
   - mental
 source: Chronicles of Darkness
 page: 284
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-Insane.webp]]"
+thumbnail: "[[Tilt-Insane.webp]]"
 dg-publish: true
 ---
-
 **Description:** The character suffers from a panic attack, sudden imbalance, or a full-on psychotic break. Her pulse races, her mind cannot focus on what she wants. The world’s an unstable place, and she’s unable to keep her balance.
 
 **Effect:** Someone suffering a psychotic break isn’t the sort of person to go down without a fight. Her stated intent might be irrational or just plain impossible, and she might have fewer ethical problems with using extreme violence to get what she wants. The character gains a +1 bonus to all combat rolls, but takes actions after everyone else (if two characters suffer from the Insane Tilt, both act after everyone else but compare Initiative as normal). A character suffering from this Tilt cannot spend Willpower in combat, and suffers a -3 penalty to all Social rolls.

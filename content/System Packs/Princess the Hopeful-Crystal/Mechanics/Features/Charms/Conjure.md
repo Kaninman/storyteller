@@ -13,7 +13,6 @@ tags:
   - pth-c/charm/conjure
   - pth-c/upgrade/conjure
 ---
-
 The Power of Friendship is metaphorical; the more of us are together, the greater our resilience and strength. The more of us are together, the greater the odds that one of us will have just the thing needed to deal with the problem. The Power of Friendship is also literal; our spirits are empowered by our bonds with our friends, and our Inner Light blazes brighter when fighting for those we value.
 
 When those two meanings overlap, you get the Conjure Charm. Conjure is how a Princess calls upon her tools and allies, bringing objects and people together to have just the right thing for the situation. While a Princess can theoretically include anything as part of her Regalia, each one takes an investment of her power and identity—but Conjure lets you grab anything. At its base level, Conjure is like a pocket-dimension portal to a storage unit full of useful stuff. With Upgrades, you can grab things you didn’t think of, create them from scratch, even copy them. These effects range from creating a simple pager for your Shikigami, to the ability to call upon and empower expert assistance in any field.
@@ -30,8 +29,8 @@ A master of Conjure is never caught unprepared and never caught alone.
 
 **Basic Action:** At some time before using Conjure, you must attune to an object or an actor at no cost (you can attune to any number of things, but it gets hard to keep track of more than 3 times your current Inner Light worth of things). When you cast Conjure, you start to summon that object or actor from its point of origin. You must accumulate a number of successes on the extended casting roll to equal the object or actor’s Size. If you summon something of Size 0, you treat it as summoning something of Size 1.
 
-# Extra Info
 
+# Extra Info
 ★ You **attune** to something by “being familiar with and having spent a significant amount of time in its presence and specially marking it in some way.”
 
 ★ To **summon** is to “magically transport an object or actor from wherever it currently is to a spot directly in front of you.”
@@ -48,7 +47,6 @@ you summon it.
 ★ Regalia: Conjure Regalia usually takes the form of something that the conjured thing will pass through (even without Conjure Portal), a representation of the thing you summon, or some manifestation of how a conjured thing is tied to you. A ring might expand to the diameter of a hula hoop for a box of supplies to fall through, or a magician’s hat might produce a stream of rabbits. Little plastic miniatures or a quickly folded origami vehicle might grow into the form of the real thing. Something could be called over with puppet strings, or a fishing pole and line.
 
 # Gifted Upgrades
-
 [[Conjure Aid]] - Flowers
 [[Conjure From Schematic]] - Currents
 [[Conjure Occult]] - Tears
@@ -60,11 +58,11 @@ you summon it.
 
 # Upgrades
 
-![[content/System Packs/Princess the Hopeful-Crystal/Mechanics/Features/Charms/Upgrades/_Charm-Upgrade-Bank.base#Conjure Upgrades]]
+![[_Charm-Upgrade-Bank.base#Conjure Upgrades]]
+
 
 # Tags
-
-#supernatural-effect/conjuration
+#supernatural-effect/conjuration 
 #pth-c
 #pth-c/charm
 #pth-c/upgrade/conjure

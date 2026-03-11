@@ -10,13 +10,10 @@ tags:
   - pth-v
   - pth-v/princess/advantage/wisp
 ---
-
 A Wisp is a mote of virtue and determination, an itty-bitty ember of the Human Spirit given off by positive emotions and general happiness, that Princesses use to fuel many of their abilities. The maximum amount of Wisps a Princess can store, as well as the number she can spend in one turn, is determined by her Inner Light.
 
 Wisps are the fuel for a Princess, a measure of both raw magic and emotional energy. A Princess begins with half her starting Wisp pool, as measured by [[CORE RULES/INFRASTRUCTURE/System Packs/Princess the Hopeful-Vocation/Splat-Rules/Princess/Advantages/Inner Light|Inner Light]], plus the higher of her Circle and Mandate Merits
-
 ## Spending Wisps
-
 **Quickened Transformation:** A Princess may spend a Wisp to transform automatically as a reflexive action, bypassing the usual roll.
 
 **Practical Magic:** A Princess may spend one or more Wisps to activate her Practical Magic.
@@ -26,9 +23,7 @@ Wisps are the fuel for a Princess, a measure of both raw magic and emotional ene
 **Holy Shield:** While transformed, a Princess may reflexively spend Wisps to resist an injury as she receives it.
 
 ## Regaining Wisps
-
 ### Call of Duty
-
 A Princess normally regains Wisps by going out and making the world a better place in a way that fits with her Calling. A Mender could work as a nurse or in a soup kitchen, a Troubadour might perform in public or display her art, a Grace could mentor a youth, et cetera. Once a scene, if a Princess attempts an action related to her Calling duties, before rolling her player may declare that she will regain Wisps from the task. For a simple action, this adds the following results to the roll, beyond its mundane consequences.
 
 **Dramatic Failure:** The Princess fails so badly that she loses 2 Wisps, instead of gaining any.
@@ -48,8 +43,8 @@ If the Princess upholds her duty in a way that honors her Queen’s philosophy, 
 Some Princesses focus on a specific way to fulfill their Calling duties; the Mandate merit represents this.
 
 ### Circle of Light
-
 Princesses with mundane families and friends often find that spending time with them, sharing their troubles or happiness, refreshes them for the supernatural fight. The Circle Merit represents these relationships; see that Merit for a full explanation.
+
 
 ### Inner Strength
 
@@ -62,10 +57,9 @@ When the chips are down and the situation is dire, a Princess can call upon her 
 **Success:** The Princess refreshes her magic; she regains Inner Light Wisps plus one Wisp per success.
 
 **Exceptional Success:** On top of the Wisps, the Princess surges back into action. On her next turn, she adds a +3 bonus to her dice pool.
-
 # Tags
-
 #pth-v/princess/advantage/wisp #pth-v
 #pth-v/wisp/use
 #pth-v/wisp/regeneration
 #splat-juice
+

@@ -11,7 +11,6 @@ gift-type: gift of death
 renown: wisdom
 dg-publish: true
 ---
-
 The last moments of life reflect in the eyes of the dead.
 
 Cost: 1 Essence

@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Storms
 Your blows leave your opponents wounded and reeling. Your strike can apply one of the following Tilts: [[Armwrack]], [[Legwrack]], [[Blinded]], [[Deafened]], [[Knocked Down]], [[Burning]], [[Bleeding]] (Hurt Locker p.143), [[Winded]] (p. 271), [[Heightened Pain]] (p. 270), or another combat [[Tilt]] as the Storyteller finds appropriate.
 

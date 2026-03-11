@@ -19,7 +19,6 @@ tags:
   - merit/mortal/supernatural
   - merit/lost-boys
 ---
-
 Effect: Your character was subject to the Delta Protocol’s
 experimentation. This Merit allows access to Protocol Merits.
 Every level opens new potential augmentations. The Merit
@@ -34,7 +33,7 @@ Mk 1 (•): She suffers Deprived after one month. At two
 months, she suffers full withdrawal and takes one unhealable
 lethal damage per week until sated.
 
-Mk 2 (••): She suffers Deprived after one week. At two
+Mk 2 (••): She suffers Deprived after one week. At two 
 weeks, she suffers full withdrawal and takes one unhealable
 lethal damage per day until sated.
 

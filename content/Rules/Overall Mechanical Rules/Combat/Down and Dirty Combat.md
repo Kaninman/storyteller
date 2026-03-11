@@ -3,9 +3,7 @@ rules:
   - combat
 dg-publish: true
 ---
-
 # Down and Dirty Combat
-
 The Storyteller might decide that a player character can get what she wants without focusing on the details of the fight. Maybe she’s picking on people weaker than her. Maybe she’s internalized the mechanics of violence to a degree that far surpasses the average Joe. Maybe the fight’s not the most important thing going on with regard to the character’s intent. In these cases, the Storyteller can opt to use Down and Dirty Combat.
 
 This system resolves the entire fight in a single roll. If multiple player characters are involved and have separate intents, such as one character trying to fight past a guard while another beats information out of a flunky, each intent is resolved as a separate Down and Dirty Combat action. If the group only has one intent but multiple player characters are participating, they can use teamwork (see p. 72) on the roll. Players can call for Down and Dirty Combat, with the Storyteller’s approval. Storyteller characters might deal damage as a result of a Down and Dirty Combat, but they can’t initiate one.
@@ -24,5 +22,4 @@ This system resolves the entire fight in a single roll. If multiple player chara
 **Exceptional Success:** As a success, and the character also gains a point of Willpower from the rush of inflicting violence on an inferior opponent.
 
 # Tags
-
 #combat

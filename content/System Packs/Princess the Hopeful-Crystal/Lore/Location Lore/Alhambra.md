@@ -8,11 +8,9 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 # Alhambra
-
 [[Campaign- City of Sin/Locations/The Dreamlands & Dark World/Twilight Kingdoms/Alhambra|Alhambra]] is the Last City, the only remaining part of [[The Fearless Kingdoms]]. Perpetually gloomy under a sunless sky, it is lit by lanterns burning stolen hope, flickering through the constant rain. Depression is so thick in the atmosphere you can almost drink it. It is the stronghold of [[the Queen of Tears]] and her followers, who some consider the Radiant’s most important enemies; the Radiant oppose their goals and operations at every turn. Its gates link to locations all over the world where Ravens steal hope, support Nightmares, and undermine everything the Ra-
-diant believe in.
+diant believe in. 
 
 And it is open to all the Radiant at all times. It is a sanctuary and neutral ground for all, where even the Queen’s enemies can taste an echo of the generosity that once defined her life. If any Princess needs something in Alhambra, Alhambra will offer it – if it’s possible without compromising its own operations.
 
@@ -22,7 +20,6 @@ the truth and join her. Maybe they will even bring some sliver of joy to Alhambr
 While pursuing her own goals is important, the Queen offers up Alhambra so the Radiant won’t get killed. They’re committed to doing suicidally stupid things out of a misguided sense of hope, but each death is still a tragedy. Each death of a Princess that could have been avoided if the Ravens had convinced them to join adds another ounce to the weight on her heart.
 
 # The City
-
 Alhambra sits somewhere in the Dark World, but absolutely nothing lies beyond its borders and gates. It is a city unto itself. Nearly every square foot of it is filled with cobblestone roads, marble courtyards, Roman-concrete canals, endless structures of brick, granite, wrought iron. Despite the city’s age, and the inability to expand its borders, the streets and public buildings all give the sense of being too large, too empty. The people walk the streets with gloomy eyes, pulling their coats tighter, lost in the dungeons of their own thoughts.
 
 No sun or stars hang above Alhambra, but if they did, they’d be rarely visible through the omnipresent clouds. When it isn’t raining in Alhambra, it’s about to rain. The rain is clean and drinkable, though ever so slightly salty, like human tears; all of the architecture features gutters and drains to redirect the constant flow of rain to the canals that run alongside major thoroughfares.
@@ -38,7 +35,6 @@ Alhambrans still won’t sleep with the lights off, though.
 The palace of the Queen of Tears is a tower that looms above the city, tall enough for the upper reaches to vanish into the clouds. Its stained-glass windows used to depict moments of Calat’s glorious history, but they’ve been corroded, broken and rebuilt so many times they are now just abstract groupings of muted colors. The walls’ once-vibrant murals painted by the city’s great artists are now almost entirely washed away by rain. The tip of the tower is the only thing that extends above the cloud cover, and only the Queen of Tears herself is allowed at the highest level. She thinks about jumping. She doesn’t know if it’s courage or cowardice stopping her.
 
 # The People
-
 Everyone living in Alhambra is depressed.
 
 They know it, and they don’t love it—they are depressed, after all—but they accept it. The Queen’s heart echoes to all of them and carries their hearts with it, but this isn’t a magical compulsion any more than a buzzkill or a melancholy story is magical. They are depressed, they say, because it’s an accurate assessment of the world. Depression is welcome to numb how awful their emotions would feel,
@@ -55,8 +51,8 @@ An Alhambran feels sorrow over the state of the world, for it is so vast and Alh
 
 The Princesses who keep the lights burning are known as Ravens—at least half of all Princesses born in Alhambra take the name “Raven” for their alternate identity—and are treated with great respect and deference. While it isn’t illegal to offend or speak ill of them, it is considered incredibly rude and disrespectful of the Queen herself. Ravens are expected to be given first choice of City amenities or luxuries. Commoners are not required to kneel in their presence, but a respectful bow or salute is considered polite.
 
-# Tags
 
-#lore #pth-c/alhambra #splat-location
+# Tags
+#lore #pth-c/alhambra #splat-location 
 #lore/locations/pth-c
 #pth-c

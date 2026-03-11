@@ -10,8 +10,7 @@ embed-type: vocal
 power-type: embed
 dg-publish: true
 ---
-
-Where do ideas come from? Angelic visitations feature prominently in stories about inspiration, and Messengers remember orders to plant an idea or a vision or a dream in a person’s mind. After the fall, the ability to inspire is comparatively limited but a demon can still manage it.
+Where do ideas come from? Angelic visitations feature prominently in stories about inspiration, and Messengers remember orders to plant an idea or a vision or a dream in a person’s mind. After the fall, the ability to inspire is comparatively limited but a demon can still manage it. 
 
 Dice Pool: Manipulation + Expression – Resolve
 Action: Instant

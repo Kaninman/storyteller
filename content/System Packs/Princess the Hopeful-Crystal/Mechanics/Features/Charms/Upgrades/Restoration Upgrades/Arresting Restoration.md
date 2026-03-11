@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Tears—allows Occult to be used instead of Crafts or Medicine
 
 Some problems might take longer to solve than you have, and some problems need to be frozen to keep them from getting worse.

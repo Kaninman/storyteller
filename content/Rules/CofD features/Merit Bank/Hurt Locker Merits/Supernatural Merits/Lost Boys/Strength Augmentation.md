@@ -19,7 +19,6 @@ tags:
   - merit/mortal/supernatural
   - merit/lost-boys
 ---
-
 Effect: Your character’s been outfitted with stronger
 musculature, and more efficient arteries. For each dot in
 this Merit, add one dot to your character’s Strength. This

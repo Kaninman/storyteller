@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Mirrors—allows Manipulation to be used instead of Intelligence
 
 Sometimes it’s not enough to just heal what is internal to the patient. Sometimes you gotta heal how people see them.

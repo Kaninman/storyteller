@@ -8,9 +8,7 @@ tags:
   - lore
   - pth-c
 ---
-
 # The State of the World
-
 Other creatures of the dark have secret societies and hierarchies, or at least traditions to follow. [[The Queens|the Radiant]] do not. They don’t have a system for who is in charge of this city or that city or how to resolve disputes, they don’t have any sort of formal community in the real world. The first Blossoming—the first time someone awakened fully to the power of the Light of Hope and realized their destiny—of someone sent by the Queens to be reborn was in 1992. There weren’t many of them, but their numbers grew over time, and they made an impact on the world. While still rare, Blossoming Princesses tend to now awaken in clusters to seek each other out rather than as isolated individuals unable to face their duty alone.
 
 The first generation of Princesses is growing up, and some few have even attained positions of power or influence. But they are too few, far too few to rely upon. You can speak to the Queens, seek their guidance, eve[[CORE RULES/INFRASTRUCTURE/System Packs/Princess the Hopeful-Crystal/Lore/Setting Lore/The Dreamlands]]/Princess the Hopeful-Crystal/Lore/Setting Lore/The Dreamlands]]. You can meet thousands and thousands of other Princesses and subjects, and have no idea which of them, if any, actually live in the real world.
@@ -25,7 +23,6 @@ being raised by the Princesses of Storms, cells of people illuminated by their s
 These dark magical girls can be allies… at least, until they are inevitably forced to cross purposes.
 
 # The War for Hope
-
 Today, Princesses are fast approaching the tipping point that will determine if they can save the world or if their efforts will be crushed by backlash. The taint of fear suffuses our hearts and our reality, and no matter how much we wish we can never be utterly rid of it. But we knew we’d never be free of hatred or sadness either, and we made something wonderful despite them. It won’t be easy, and it might not be possible, but t[[CORE RULES/INFRASTRUCTURE/System Packs/Princess the Hopeful-Crystal/Mechanics/Nightscapes|Nightscapes]]ystem Packs/Princess the Hopeful-Crystal/Mechanics/Nightscapes|Nightscapes]]. Just as a Noble will Blossom when the love surging in her is so great it can’t be contained by her body, the fear and anguish in the human heart can explode outward into a Nightscape, a trapped miniature realm of dark dreams where its involuntary creator is both the ruler and the tortured prisoner—and from which beings of fear are birthed and escape into the world, compulsively re-enacting their own creation, spreading fear further and further. Other occult powers of the world catch glimpses of this, but are so immersed in [[Darkness|the Darkness]] that they think this is simply a natural thing that happens. The Noble know better. They don’t know how many Nightscapes there are, or how many new ones flourish each day – but they know they need to be stopped, their predations warded off, their injuries undone, and their creators freed.
 
 The Dreamlands, the Dark World, and even this world hold lost lore of the Fearless Kingdoms that could mean the difference between victory and defeat. What techniques have been forgotten? Are there ancient alliances that could be called upon again? What do we know of the foes that face us? Who came before us, and what did they accomplish, and what can we finish? Are there any more Kings or Queens, caught and still swept in the Gales? What denizens of the Dreamlands can be convinced to join our cause, and what can they offer?
@@ -39,6 +36,5 @@ Princesses need to gather together, seek allies, uplift each other and the peopl
 Welcome to the moment that will save us or doom us all. Welcome to the War for Hope.
 
 # Tags
-
-#lore #pth-c/lore
+#lore #pth-c/lore 
 #pth-c #lore/meta-plot/pth-c

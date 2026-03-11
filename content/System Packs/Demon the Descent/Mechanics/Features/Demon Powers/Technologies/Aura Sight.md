@@ -9,7 +9,6 @@ splat: demon
 power-type: demon technology
 dg-publish: true
 ---
-
 Most living creatures broadcast their emotional and mental state with facial expressions and body language, as well as more subtle signals that cannot be seen by the naked eye. Angels that must deal with people in social situations have programming built in to allow them to understand those people’s emotions and feelings, which are otherwise alien to the angel. Demons find that this is extremely useful not only when trying to gauge the emotions in a room, but also to find supernatural creatures lurking in a crowd.
 
 Appearance: A faint blue light illuminates the eyes of the

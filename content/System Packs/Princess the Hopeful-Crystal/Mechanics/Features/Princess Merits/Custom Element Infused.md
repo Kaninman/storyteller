@@ -18,9 +18,7 @@ tags:
   - pth-c
   - merit/pth-c/princess
 ---
-
 Just like Custom Elemental Attuned, only you make an Elemental-Infusion Signet (p. 137) for the same element you chose before. Just like above, assign abilities to it that are roughly as strong as the existing Elemental Infusion Signets. If you are a Princess of Currents and the element you chose was lightning/electricity, this Merit only costs ••
 
 # Tags
-
 #pth-c

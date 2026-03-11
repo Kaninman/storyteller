@@ -12,8 +12,7 @@ auspice: rahu
 renown: purity
 dg-publish: true
 ---
-
 - Warrior's Hide (Purity 2)
 - Free
 - Effect: Increases health equal to Purity
-  #wtf/gift/moon-gift
+#wtf/gift/moon-gift

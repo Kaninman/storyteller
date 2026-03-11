@@ -13,11 +13,8 @@ tags:
   - pth-c
   - pth-c/signet
 ---
-
 When someone or something attempts to apply a Tilt or Condition to you and fails, you may spend a Willpower. If you do, apply the same Tilt or Condition to them.
-
 # Tags
-
 #pth-c #pth-c/signet
 #pth-c
 #pth-c/signet/aria

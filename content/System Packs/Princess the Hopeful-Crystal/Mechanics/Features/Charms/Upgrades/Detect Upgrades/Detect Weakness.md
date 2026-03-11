@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Storms—allows Brawl or Weaponry to be used instead of Investigation
 You may choose the query option:
 ★ “...what is the best way to disable, destroy, or negate the defenses of…”

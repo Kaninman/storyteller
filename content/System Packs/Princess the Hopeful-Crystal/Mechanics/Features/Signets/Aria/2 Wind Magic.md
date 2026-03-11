@@ -13,13 +13,10 @@ tags:
   - pth-c
   - pth-c/signet
 ---
-
 Choose two Charms to become Air-Attuned. Air-Attuned Charms act through or on air, wind, or sound.
 
-_Examples: A Force that redirects air currents (but doesn’t work if there’s not enough space for ventilation), a Buster that attacks through sonic force (but can be insulated against), or an Illusion that manifests images out of smoke (but can be blown away)_
-
+*Examples: A Force that redirects air currents (but doesn’t work if there’s not enough space for ventilation), a Buster that attacks through sonic force (but can be insulated against), or an Illusion that manifests images out of smoke (but can be blown away)*
 # Tags
-
 #pth-c #pth-c/signet
 #pth-c
 #pth-c/signet/aria

@@ -11,7 +11,6 @@ gift-type: gift of elementals
 renown: wisdom
 dg-publish: true
 ---
-
 This Facet grants power over wave and water, over rain
 and river. At the Uratha’s call, it surges, strengthens or recedes.
 Cost: Varies

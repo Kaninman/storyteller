@@ -21,7 +21,7 @@ tags:
   - merit/pth-c/princess
   - merit/pth-c/social
 ---
-
+# Circle (• to •••••)
 A circle of friends is of paramount importance to keep yourself grounded in the real world and from spiraling off into despair. Dots in the Circle Merit represent not just your larger circle of friends, but your ability to connect with and let your guard down around them, whether they are members of your nakama or other people you know.
 
 The Circle Merit allows a Princess to play out a short scene of interaction with her circle of friends, either by playing it out ahead of time or “flashing back” to an appropriate scene during the middle of a serious scene. She can then call on the benefit at any point later in the chapter.
@@ -35,7 +35,6 @@ You know. Antics.
 Multiple player characters can (and should) gain the benefit of the Circle Merit from playing in the same single scene.
 
 # Tags
-
 #pth-c
 
 #merit/pth-c/social

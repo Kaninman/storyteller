@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Jewels—allows Socialize to be used instead of Persuasion
 Other creatures have the ability to lie and make it convincing, even compel belief. You don’t. You don’t need it. You speak from the heart, you bare the truth.
 

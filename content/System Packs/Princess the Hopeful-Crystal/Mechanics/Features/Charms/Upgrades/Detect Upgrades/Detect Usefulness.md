@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Mirrors—allows Persuasion to be
 used instead of Investigation
 You may specify your goal and choose the query option:

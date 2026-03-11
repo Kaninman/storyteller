@@ -6,10 +6,9 @@ tilt-type:
   - physical
 source: Chronicles of Darkness
 page: 286
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-Sick.jpg]]"
+thumbnail: "[[Tilt-Sick.jpg]]"
 dg-publish: true
 ---
-
 **Description:** Your stomach churns. You retch and heave but only succeed in bringing up bile. Sweat beads on your brow as you spike a fever. Your muscles ache with every movement. You’re wracked with hot and cold flushes as a sickness gnaws away at your insides.
 
 **Effect:** This Tilt applies a general sickness to a character without worrying about the specific illness. For the purposes of this Tilt, a sickness is either “moderate” or “grave.” A moderate sickness, such as a cold, asthma, the flu, or just a bad hangover, causes a -1 penalty to all actions during combat. That penalty increases by one every two turns (the first two turns, the character suffers a -1 penalty, the next two turns the penalty is -2, and so on up to a maximum of -5 on turn nine). A grave sickness, such as pneumonia, heavy metal poisoning, or aggressive cancer, inflicts the same dice penalties as a mild sickness. In addition, the physical stress of fighting or even defending oneself from an attacker while gravely ill inflicts a point of bashing damage per turn of combat.

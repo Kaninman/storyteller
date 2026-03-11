@@ -13,27 +13,24 @@ tags:
   - pth-c/charm/anthem
   - pth-c/upgrade/anthem
 ---
-
 Before we had language, we had art. A Princess who seeks to uplift and inspire remembers that. Reaching deep inside someone to draw out their true potential, to pull them out of the suffocating Darkness of fear, to let them become the person you believe in—this is something that requires you to speak to the heart, not the ear.
 
 Anthem is the Charm dedicated to doing that: expressing a Princess’s emotions to sweep up others who experience them. It’s so named because the most common way to express it is with music, but it’s not the only means. Dance, inspirational speeches, wisecracks, stage magic, any kind of performance that can convey emotions, all can carry an Anthem, and all can uplift the spirit.
 
 # Mechanics
-
 > **Action:** Instant.
-> **Dice Pool:** Presence + Expression + Inner Light—target’s Composure (if resisted).
+**Dice Pool:** Presence + Expression + Inner Light—target’s Composure (if resisted).
 >
-> Duration: Special. Anthem lasts for at least two turns, plus one additional turn for each charge spent on its duration.
+Duration: Special. Anthem lasts for at least two turns, plus one additional turn for each charge spent on its duration.
 >
-> The caster can spend an instant action at any point later in the scene to continue their performance and “refresh” Anthem, starting it up again without spending additional resources or rolling again.
+The caster can spend an instant action at any point later in the scene to continue their performance and “refresh” Anthem, starting it up again without spending additional resources or rolling again.
 >
-> Scaling: The number of successes determines the difficulty to resist the Anthem and its ability to counteract other sonic, performance, or emotional effects.
+Scaling: The number of successes determines the difficulty to resist the Anthem and its ability to counteract other sonic, performance, or emotional effects.
 >
-> Exceptional Success: Increase the number of charges by 2.
-> Basic Action: The Princess delivers a performance to an audience, which evokes a feeling and applies the Stirring Performance Tilt.
+Exceptional Success: Increase the number of charges by 2. 
+Basic Action: The Princess delivers a performance to an audience, which evokes a feeling and applies the Stirring Performance Tilt.
 
 ## Elaboration
-
 ★ A **performance** is “an act of self-expression through some manner of live artistic communication.”
 ★ The **audience** is “everyone who can directly experience the performance out to a distance of roughly 20 yards.”
 ★ The **feeling** is “an emotion of your choice, evoked in the audience, that can encourage certain actions and discourage others.”
@@ -51,7 +48,6 @@ Nobody can benefit from the Stirring Performance of more than one character at a
 For other forms of **performance**, Regalia is something used to do the performance, or something that augments it: tap dancing shoes could be Regalia, but so could the decorated dreadlocks that whirl and whip with the movement of a capoeira dancer. Spotlights might hover in the air to cast their light on the performer when she’s ready for her solo.
 
 # Gifted Upgrades
-
 [[Bassline Anthem]] - Flowers
 [[Face-Melting Anthem]] - Storms
 [[Glamorous Anthem]] - Mirrors
@@ -62,13 +58,12 @@ For other forms of **performance**, Regalia is something used to do the performa
 [[Romantic Anthem]] - Swords
 
 # Upgrades
+![[_Charm-Upgrade-Bank.base#Anthem Upgrades]]
 
-![[content/System Packs/Princess the Hopeful-Crystal/Mechanics/Features/Charms/Upgrades/_Charm-Upgrade-Bank.base#Anthem Upgrades]]
 
 **Next Charm:** [[Buster]]
-
 # Tags
 
-#pth-c/submechanic/charm/charges
+#pth-c/submechanic/charm/charges 
 #pth-c
 #pth-c/charm

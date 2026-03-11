@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Hacker’s Detection
 Allows Computers to be used instead of Investigation
 You may choose the subject option:

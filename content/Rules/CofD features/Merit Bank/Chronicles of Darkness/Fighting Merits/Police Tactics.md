@@ -21,11 +21,13 @@ tags:
   - merit/style
   - merit/universal
 ---
+# Police Tactics (• to •••)
+***Prerequisites:** Brawl 2, Weaponry 1*
 
-Your character is trained in restraint techniques, often used by law enforcement officers. This may reflect formal training, or lessons from a skilled practitioner.
+Your character is trained in restraint techniques, often used by law enforcement officers. This may reflect formal training, or lessons from a skilled practitioner. 
 
-Compliance Hold (•): Gain a +2 bonus to overpowering rolls to disarm or immobilize an opponent. ^PT1
+Compliance Hold (•): Gain a +2 bonus to overpowering rolls to disarm or immobilize an opponent. ^style1
 
-Weapon Retention (•• ): Opponents attempting to disarm your character or turn his weapon against him must exceed your character’s Weaponry score in successes. ^PT2
+Weapon Retention (•• ): Opponents attempting to disarm your character or turn his weapon against him must exceed your character’s Weaponry score in successes. ^style2
 
-Speed Cuff (•••): Against an immobilized opponent, your character may apply handcuffs, cable ties, or similar restraints as a reflexive action. ^PT3
+Speed Cuff (•••): Against an immobilized opponent, your character may apply handcuffs, cable ties, or similar restraints as a reflexive action. ^style3

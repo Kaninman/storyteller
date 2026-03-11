@@ -18,6 +18,8 @@ tags:
   - merit/universal/mental
   - merit/universal
 ---
+# Good Time Management
+Your character has vast experience managing complex tasks, keeping schedules, and meeting deadlines. When taking an extended action, halve the time required between rolls. ^merit
 
-Your character has vast experience managing complex tasks, keeping schedules, and meeting deadlines. When taking an extended action, halve the time required between rolls.
-#merit/mental
+# Tags
+#merit/mental #merit/universal/mental 

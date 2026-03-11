@@ -15,7 +15,6 @@ tags:
   - merit/mortal/supernatural
   - merit/universal/combat
 ---
-
 Effect: Your character has honed her psychic abilities into
 a dangerous weapon. All the conditions required to activate
 your character’s Psychokinesis must be present to use any of

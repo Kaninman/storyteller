@@ -17,11 +17,11 @@ tags:
   - merit/universal
   - merit/char-gen-locked
 ---
-
-# Mechanics
+# Ambidextrous (•••)
 
 Effect: Your character does not suffer the -2 penalty for using his off hand in combat or to perform other actions. Available only at character creation
 
-#merit/universal/physical #merit #merit/universal #merit/char-gen-locked
+#merit/universal/physical #merit/universal #merit/char-gen-locked
 
 #merit/physical
+#merit/universal/no-prereq

@@ -6,10 +6,9 @@ tilt-type:
   - physical
 source: Chronicles of Darkness
 page: 281
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-Blinded.jpg]]"
+thumbnail: "[[Tilt-Blinded.jpg]]"
 dg-publish: true
 ---
-
 **Description:** The character’s eyes are damaged or removed.
 
 **Effect:** The character suffers a -3 penalty to any rolls that rely on vision — including attack rolls — and halves his Defense if one eye is blinded. That penalty increases to -5 and loss of all Defense if both eyes are affected.

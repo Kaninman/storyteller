@@ -16,7 +16,6 @@ tags:
   - merit
   - merit/splat
 ---
-
 Your character favors one of her four forms aside
 from [[Hishu]], and when she takes that form, it’s larger, stronger,
 and faster than most [[Uratha]]. With each dot in this Merit, he
@@ -48,6 +47,7 @@ or Physical Attribute dot for a different form. When taking
 that form, reduce that Attribute by one, including all derived
 traits. These penalties may be divided among different forms.
 Note: You may only choose this Merit for a single form.
+
 
 #merit/wtf/werewolf/physical
 

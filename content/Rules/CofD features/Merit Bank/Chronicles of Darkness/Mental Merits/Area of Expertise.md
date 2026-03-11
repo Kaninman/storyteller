@@ -17,8 +17,10 @@ tags:
   - merit/universal/mental
   - merit/universal
 ---
+# Area of Expertise (•)
+***Prerequisites:** Resolve 2, one skill specialty*
 
-Your character is uncommonly specialized in one area. Choose a Specialty to assign to this Merit. Forgo the +1 bonus afforded by a Specialty, in exchange for a +2
-
-#merit/universal/mental
+Effect:Your character is uncommonly specialized in one area. Choose a Specialty to assign to this Merit. Forgo the +1 bonus afforded by a Specialty, in exchange for a +2 ^merit
+# Tags
+#merit/universal/mental 
 #merit/mental

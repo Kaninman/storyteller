@@ -13,11 +13,8 @@ tags:
   - pth-c
   - pth-c/signet
 ---
-
 When you kill a being with a Supernatural Tolerance or Potency stat but 2 or less Integrity equivalent (including but not limited to Darkspawn), immediately regain Willpower equal to its Potency or Wisps equal to double its Potency.
-
 # Tags
-
 #pth-c #pth-c/signet
 #pth-c
 #pth-c/signet/tempestra

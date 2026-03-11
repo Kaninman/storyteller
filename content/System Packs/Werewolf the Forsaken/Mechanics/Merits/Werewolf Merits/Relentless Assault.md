@@ -22,7 +22,6 @@ tags:
   - merit
   - merit/splat
 ---
-
 Effect: Your character fights with complete abandon. She
 throws herself at her opponents without thought or hesitation,
 turning herself into a ruthless killing machine. She’s the first
@@ -65,6 +64,7 @@ make an additional attack against any other character within
 her reach. If her second attack deals damage, she immediately
 enters Basu-Im without a chance to resist.
 
-#merit/werewolf/combat
+
+#merit/werewolf/combat 
 #house-rule/splat-flexible
 #basu-im-trigger

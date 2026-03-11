@@ -12,7 +12,6 @@ renown: purity
 gift-type: gift of rage
 dg-publish: true
 ---
-
 - Costs: 1
 - Action: Reflexive
 - Effect: Only used when in Gauru form and hits with Brawl. Inflicts extra damage equal to Purity Renown. Costs no Essence in Basu-im

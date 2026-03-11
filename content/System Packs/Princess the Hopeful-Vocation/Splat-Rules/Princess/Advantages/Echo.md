@@ -8,13 +8,10 @@ dg-publish: true
 tags:
   - pth-v
 ---
-
 # Echoes
-
 The people whom the Light has touched become lesser lights in their turn; echoes of the Light are cast into the hearts of their friends and acquaintances. Any Noble, if her heart is untroubled by the Darkness, can raise an Echo of the Light in the people around her through a symbolic gesture. This will lift the hearts of all who witness it, inspire them with a wish to act on her principles, and (for a short time) help them excel in their attempts to do so. However, a Princess infected by Shadows finds her Echo going wrong, spreading the fear and despair that lies on her heart to those near her, and inspiring them to imitate her darker impulses, instead of her ideals. In addition, Nobles and Beacons (but not Sworn) with a high degree of Belief constantly influence their intimates for the better, while those with scant Belief share their despond with all who know them; this too is part of their Echo.
 
 # Raising an Echo
-
 Raising an Echo takes an instant action; the Noble demonstrates, through an expressive action, the ideal closest to her heart - the act must reflect her Virtue - mentally calls on the Light to imbue her act with power, spends a Willpower point and rolls Resolve + Inner Light. (For instance: a Courageous soldier says “Follow me!” and charges into battle; a Patient craftswoman demonstrates the careful use of her tools; a Generous traveler drops a large bill in a busker's hat.) If she succeeds, any witnesses to her act gain the Inspired Condition [CofD 289] for actions related to her Virtue. On an exceptional success, the Noble gains Inspired herself.
 
 As with the other aspects of Noble magics, the tracks left by Hauntings impede and twist the Echo. A Princess whose Belief is less than or equal to twice her Shadows can no longer inspire others towards her Virtue. Instead she may imbue an action that expresses her besetting temptation - an act in accordance with her Vice - with the power to inspire witnesses, using the same system. (For instance: a Violent man starts a fight; a Pessimistic woman declares a situation hopeless; an Arrogant socialite contemptuously dismisses an inferior.)
@@ -32,7 +29,6 @@ Beacons, through whom the Light shines naturally, and Sworn, as vicars of the No
 One other effect of the Echo must be mentioned: anyone who hears a Noble’s Echo is Light-touched enough that Dark beings are attracted to them, though not enough to rouse their specific hostility. No rules are provided for this, but it’s the chief reason why creatures of the Darkness show up where the Hopeful are, without necessarily planning to confront a Princess. At low levels of Inner Light a Noble only draws out Darkspawn who were already in the neighborhood through her Echo. On the other hand, a Noble at the peak of her power touches so many people with her Echo that Dark beings will be drawn to her town from miles away, like a plague of locusts.
 
 ## Table
-
 Two rightmost columns are Degree of Sympathy
 
 | Inner Light | Mundane    | Transformed |
@@ -42,8 +38,9 @@ Two rightmost columns are Degree of Sympathy
 | 7-8         | Known      | Acquainted  |
 | 9-10        | Acquainted | Encountered |
 
-# Tags
 
+# Tags
 #pth-v/princess/advantage/echo
 #splat-mechanic/advantage
 #pth-v/princess-echo
+

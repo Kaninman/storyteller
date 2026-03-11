@@ -6,7 +6,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 The stories of cultures both supernatural and mundane are filled with the idea of a long-lost Golden Age whose grace we have fallen from. Mages and mortals both believe in infinitely wise Atlantis. The Uratha long for the time before Father Wolf’s fall. Christians imagine life before Original Sin. The Nameless Empire the Mummies hearken from was an archaeological fact, but it never had the glory and power they now invest in it. And even now the idea of a beautiful Tartarian Empire which held secrets of beauty that we are now denied existed a mere generation ago gains traction among those beaten down by the mundane ugliness of modernity. All of them look around at the world, at what a miserable mess it is, and think “It can’t have always been like this. This isn’t the best of all possible worlds. I know we could do better—we must have lost that.”
 
 The best of all possible worlds is what we, the Hopeful, refer to as “the Fearless Kingdoms.”
@@ -21,7 +20,7 @@ Finally, magic was not a thing we HAD, magic was a thing we WERE. Magic was the 
 
 And as a Noble of the Fearless Kingdoms, you would be utterly without fear. Because fear, as we know it, didn’t exist. People could feel caution, or wariness, or concern for their safety; it’s not like they were blind or suicidal. But fear? An emotion that doesn’t just tell you about danger, but paralyzes you from doing anything about it and then tortures you until you give in and do something you know will hurt yourself? Absolutely incomprehensible.
 
-# Tags
 
-#lore
+# Tags
+#lore 
 #pth-c

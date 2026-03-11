@@ -16,7 +16,6 @@ tags:
   - pth-c
   - merit/pth-c/princess
 ---
-
 Your character’s emotional reserves refill quickly. At two dots, if you’re not in combat when you take an action to convert Willpower into Wisps, you gain 3 Wisps instead of 2.
 At four dots, when you Flare your Belief, your extra Wisp capacity from your increased Inner Light comes already filled with Wisps
 #pth-c

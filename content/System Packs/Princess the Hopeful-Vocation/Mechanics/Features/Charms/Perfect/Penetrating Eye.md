@@ -9,13 +9,11 @@ page:
 power-type: charm
 dg-publish: true
 ---
-
 # Mechanics
-
-> Action: Instant
-> Dice Pool: Wits + Crafts - Durability
-> Cost: 1 Wisp
-> Duration: 1 Scene
+>Action: Instant
+>Dice Pool: Wits + Crafts - Durability
+>Cost: 1 Wisp
+>Duration: 1 Scene
 
 The Noble looks through solid objects, seeing what lies beyond them. When activating the Charm, she chooses a Durability level.
 

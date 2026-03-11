@@ -15,7 +15,6 @@ tags:
   - merit
   - merit/mortal/supernatural
 ---
-
 Effect: Your character has a psychic ability to manipulate
 the forces of the universe. Every type of Psychokinetic is dif-
 ferent. For example, your character might have Pyrokinesis,

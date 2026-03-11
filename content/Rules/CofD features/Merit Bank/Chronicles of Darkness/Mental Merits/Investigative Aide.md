@@ -16,6 +16,10 @@ tags:
   - merit/universal/mental
   - merit/universal
 ---
+# Investigative Aide (•)
+***Prerequisite:** One skill at •••*
 
-Your character has one particular knack that can contribute amazingly to an investigation. Choose a Skill when purchasing this Merit; when making rolls to Uncover Clues (see p. 79), she achieves exceptional success on three successes instead of five. As well, Clues that come from her use of that Skill start with one additional element. You may purchase this Merit multiple times, to enhance different Skills.
-#merit/mental
+Effect: Your character has one particular knack that can contribute amazingly to an investigation. Choose a Skill when purchasing this Merit; when making rolls to Uncover Clues (see p. 79), she achieves exceptional success on three successes instead of five. As well, Clues that come from her use of that Skill start with one additional element. You may purchase this Merit multiple times, to enhance different Skills. ^merit
+
+# Tags
+#merit/mental #merit/universal #merit/universal/mental 

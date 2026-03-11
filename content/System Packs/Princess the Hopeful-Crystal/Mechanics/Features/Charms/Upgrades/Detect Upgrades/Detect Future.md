@@ -8,7 +8,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 This is an advanced Upgrade. It counts as two Upgrades when applied to a Charm.
 You gain precognition, the ability to look into the future—or the most likely possible future, anyway. You gain the sense option:
 ★ “By looking into the future…”

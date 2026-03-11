@@ -21,7 +21,6 @@ dg-publish: true
 tags:
   - merit
 ---
-
 Your character is trained with heavy weapons that require strength, wide range, and follow through more than direct speed and accuracy. This Style may be used with a two-handed weapon such as a claymore, chainsaw, pike, or an uprooted street sign. ^blurb
 
 **Sure Strike (•):** Your character doesn’t always hit the hardest or the most frequently, but they guarantee a deadly strike when they do hit. You can reflexively remove three dice from any attack dice pool (to a minimum of zero) to add one to your character’s weapon damage rating for the turn. These dice must be removed after calculating any penalties from the environment or the opponent’s Defense. ^HW1
@@ -33,9 +32,7 @@ Your character is trained with heavy weapons that require strength, wide range, 
 **Warding Stance (••••):** Your character holds her weapon in such a way as to make attacks against her much harder. If her weapon’s drawn, spend a point of Willpower reflexively to add their weapon’s damage rating as armor for the turn. This will not protect against firearms. ^HW4
 
 **Rending (•••••):** Your character’s cuts leave crippling, permanent wounds. By spending a Willpower point before making an attack roll, her successful attacks cause one level of aggravated damage in addition to her weapon’s damage rating. This Willpower point does not add to the attack roll. ^HW5
-
 # Tags
-
 #merit/universal
 #merit/universal/combat
 #merit/universal/style

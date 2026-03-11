@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Swords—allows Weaponry or Brawl to be used instead of Persuasion
 
 Sometimes people need to get some sense slapped into them. You may beseech a hostile audience in combat, and even do it reflexively while fighting or defending yourself.

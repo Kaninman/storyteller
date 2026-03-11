@@ -8,7 +8,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 This is an advanced Upgrade. It counts as two Upgrades when applied to a Charm.
 
 Your Buster is now an explosive (CofD: Hurt Locker, p. 134). The damage bonus of your Buster Regalia is the base damage of the explosion, and resolve your Buster roll as the Force of the explosion. There is no ground zero to this explosion, but the primary blast area is equal to four times your Inner Light in meters.

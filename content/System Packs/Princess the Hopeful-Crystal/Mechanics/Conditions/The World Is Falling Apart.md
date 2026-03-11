@@ -15,11 +15,8 @@ tags:
   - pth-c
   - pth-c/nightscape-condition
 ---
-
 Choose another mundane Environmental Tilt appropriate to the Nightscape—now the entire Nightscape is permanently subject to it
-
 # Tags
-
-#pth-c/nightscape-condition
+#pth-c/nightscape-condition 
 #pth-c
-#pth-c/tension-condition
+#pth-c/tension-condition 

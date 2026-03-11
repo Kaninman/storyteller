@@ -15,7 +15,6 @@ tags:
   - pth-c
   - merit/pth-c/princess
 ---
-
 Your character is in tune with the psychological landscape created by Nightscapes and how to interpret those incarnate dreams. She may substitute an Intelligence + Occult roll for any other type of skill check required to get into a Nightscape.
 #pth-c
 #merit/pth-c/princess

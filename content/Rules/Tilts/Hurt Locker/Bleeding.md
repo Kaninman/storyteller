@@ -6,10 +6,9 @@ tilt-type:
   - physical
 source: Hurt Locker 1
 page: 143
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-Bleeding.webp]]"
+thumbnail: "[[Tilt-Bleeding.webp]]"
 dg-publish: true
 ---
-
 The character bleeds profusely from an open wound. If she doesn’t staunch the blood flow, she may soon pass out from shock and blood loss.
 
 **Effect:** Bleeding characters suffer a –1 wound penalty (or have existing wound penalties increased in severity by +1). Additionally, each turn that she remains bleeding, she suffers one automatic point of bashing damage.

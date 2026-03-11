@@ -21,7 +21,6 @@ tags:
   - merit/splat
   - timeless-merit
 ---
-
 Immortality has left its mark on your character, making her
 aware of the supernatural’s effects on the world and attuning
 her to the flow of Sekhem in all things. This Merit acts as a

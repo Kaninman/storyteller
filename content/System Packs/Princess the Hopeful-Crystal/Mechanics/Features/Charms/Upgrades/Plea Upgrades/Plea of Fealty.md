@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Mirrors—allows Manipulation to be used instead of Presence
 
 Your favor may now include “and for the rest of the chapter or until I take hostile action against you, please provide one Social Merit dot for me, of my choice, whose function you are able to carry out.” You could ask a character to serve as a dot of Allies, Contacts, Circle, Staff, Status, Resources, Retainer, and similar Merits, so long as they’re able to do something that would justify that dot—loan you some cash for Resources, speak on your behalf to a group for Status, reach out to people who know things for Contacts, and so on.

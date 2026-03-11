@@ -13,12 +13,9 @@ tags:
   - pth-c
   - pth-c/signet
 ---
-
 When you spend a Willpower on a mundane task involving science, deduction, or studying ahead of time (including an Aim action), you get +3 dice, an Exceptional success on 3 or more successes, and an extra Wisp.
-
 # Tags
-
-#pth-c/queen/currents
+#pth-c/queen/currents 
 #pth-c
 
 #pth-c/signet/acqua

@@ -1,6 +1,5 @@
 ---
 prerequisite:
-  - none
 dots:
   - "2"
 source: Chronicles of Darkness
@@ -16,6 +15,9 @@ tags:
   - merit/universal/mental
   - merit/universal
 ---
+# Danger Sense (••)
+Effect: You gain a +2 modifier on reflexive Wits + Composure rolls for your character to detect an impending ambush. Your character’s reflexes are honed to the point where nothing's shocking.
 
-You gain a +2 modifier on reflexive Wits + Composure rolls for your character to detect an impending ambush. Your character’s reflexes are honed to the point where nothing's shocking.
+# Tags
 #merit/mental
+#merit/universal/no-prereq

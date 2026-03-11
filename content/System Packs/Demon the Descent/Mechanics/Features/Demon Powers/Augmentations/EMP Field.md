@@ -9,7 +9,6 @@ feature:
 power-type: demon augmentation
 dg-publish: true
 ---
-
 An angel designed to carry out missions involving sabotage, warfare, or just resetting specific bits of Infrastructure is armed with electromagnetic implants capable of disrupting electronics and causing black-outs for whole city blocks. Demons keep or adapt this ability specifically to destroy pieces of the God-Machine and its Infrastructure.
 
 Appearance: The demon’s surface takes on a dark metallic sheen with thin wires and circuits flowing all around his arms and hands.

@@ -7,7 +7,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Nearly everything in Princess represents or embodies a fear. The Dark Magical Girl archetype, exemplified by the Twilight Princesses, is no different. While other monsters
 represent fears of death and harm and betrayal and decay and helplessness, the Dark Magical Girl experiences and manifests her worst fear of all:
 
@@ -31,7 +30,6 @@ Rather than reversing her ways after one conclusive defeat, it’s likely a Twil
 The nature of Twilights, their willingness to cooperate when the situation is dire, and their slow path to redemption, provide an excellent gameplay opportunity: if you have a troupe, and one member can’t regularly make the scheduled game times but wants to play anyway, they can play a Twilight. When they can show up, the Twilight Princess agrees that the nakama’s goal is important enough to work together. When they can’t, the Twilight thinks they aren’t worth her time or is busy attending to her own affairs.
 
 # Tags
-
-#lore #pth-c/twilight/princess
+#lore #pth-c/twilight/princess 
 
 #pth-c

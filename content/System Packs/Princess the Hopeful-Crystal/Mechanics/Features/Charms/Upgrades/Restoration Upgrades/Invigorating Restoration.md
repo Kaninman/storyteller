@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 You can mend people and things to tip top shape, the most optimal they’ve been, beating back stress and exhaustion.
 
 The injury you treat may now be “this object doesn’t have a high enough Durability” or “this patient has an Attribute that is lower than mine.” To add Durability to an object, the first costs 1 success, the second costs 2, etc.

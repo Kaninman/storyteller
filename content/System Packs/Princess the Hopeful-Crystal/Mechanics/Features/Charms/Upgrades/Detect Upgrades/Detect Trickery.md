@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Detect Trickery
 Gifted to Princesses of Spades—allows Subterfuge to be used instead of Investigation
 It takes a trickster to know a trickster. You may now pick the query:

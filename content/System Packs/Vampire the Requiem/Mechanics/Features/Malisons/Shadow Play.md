@@ -8,19 +8,16 @@ page: 42
 power-type: malison
 dg-publish: true
 ---
-
 # Mechanics
-
 This Malison gave rise to legends that claim a lack of shadow betrays a dhampir’s nature. The dhampir splits her fate in two, separating herself from her shadow and letting it roam around to act on its own. She must spill her blood onto her shadow where it lies on the ground and perform a short ceremony of cutting or detaching something. She could slice a sandwich in half with a knife or tear pages out of a book, for example. If she has no shadow, either because she’s in complete darkness or fully illuminated from every side, this Malison doesn’t work.
 
-> Cost: 2 lethal damage
-> Dice Pool: Intelligence + Composure
-> Time: One minute
-> Duration: Special (see below)
-> ^actionblock
+>Cost: 2 lethal damage
+>Dice Pool: Intelligence + Composure
+>Time: One minute
+>Duration: Special (see below)
+^actionblock
 
 # Roll Results
-
 **Dramatic Failure:** In trying to split her fate, the dhampir disconnects herself from it entirely. She loses the benefits of her Destiny (p. 30) and her Omen Sensitivity and Thief of Fate Merits for the rest of the scene.
 
 **Failure:** Her shadow remains fully affixed.

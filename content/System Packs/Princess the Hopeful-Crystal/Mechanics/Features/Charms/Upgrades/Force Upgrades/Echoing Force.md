@@ -8,7 +8,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 This is an advanced Upgrade. It counts as two Upgrades when applied to a Charm.
 When you make your locus, you can summon an additional locus for each time you apply this Upgrade. You may apply this Upgrade multiple times, up to a maximum of your Inner Light, but it costs an extra Upgrade slot for each one.
 

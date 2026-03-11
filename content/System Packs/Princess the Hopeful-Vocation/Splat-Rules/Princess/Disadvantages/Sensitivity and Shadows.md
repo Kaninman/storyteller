@@ -7,7 +7,6 @@ page: 65
 disadvantage:
 dg-publish: true
 ---
-
 A Princess is, by nature, sensitive to the suffering of others. When she sees someone in pain, she cannot help but feel it herself; when she witnesses cruel or callous acts that cause suffering in others, the light within her dims and flickers. The sympathetic pain echoes in her mind afterward, as a Haunting; she may continue to see the face of the victim or relive the moment over and over. Food tastes like dust, her favorite music is nothing but a cacophony, and headaches won’t leave her. Worse, the most severe Hauntings leave behind a lasting injury to her magic, represented as the Shadows trait.
 
 A starting character has Shadows 0. Dots in Shadows impair a Princess’ access to her powers in two ways. First, they are subtracted from her transformation roll, which becomes Belief + Inner Light - Shadows. Shadows also impair a Princess’s ability to recover Wisps: all the dice pools she rolls for that purpose subtract 1 die for each dot in Shadows she possesses.
@@ -17,11 +16,11 @@ To qualify as a tainting (the name for events a Princess has Sensitivity to) an 
 The level of sympathetic pain a Princess feels at a tainting depends on her Inner Light, the moral gravity of the act itself, whether she witnesses it or only feels its results, and the degree of responsibility she bears for it. When her Sensitivity triggers, a Princess rolls a dice pool of half her Inner Light, rounding up, and modified as follows.
 
 See [[#Table]]
-**Dramatic Failure:** As normal failure.
+**Dramatic Failure:** As normal failure. 
 
 **Failure:** The tainting does not impair the Princess.
 
-**Success:** The Princess undergoes a Haunting. She takes one of the Conditions Demoralized, Enraged or Hypersensitive. If the number of successes is less than or equal to her current Shadows dots, the Condition resolves the first time the Noble takes a Beat from it. If the successes exceed her Shadows, the Condition lasts until resolved in the stated way, and the Princess also gains a new Shadows dot and the Haunted Condition.
+**Success:** The Princess undergoes a Haunting. She takes one of the Conditions Demoralized, Enraged or Hypersensitive. If the number of successes is less than or equal to her current Shadows dots, the Condition resolves the first time the Noble takes a Beat from it. If the successes exceed her Shadows, the Condition lasts until resolved in the stated way, and the Princess also gains a new Shadows dot and the Haunted Condition. 
 
 **Exceptional Success:** The Princess gains a new Shadows dot and the Haunted Condition regardless of her current Shadows dots. She may take one of the Conditions Demoralized, Enraged or Hypersensitive, which last until resolved. Alternatively, she may trigger a catharsis to decrease her burdens. She takes one of the Conditions Abdicated, Maddened or Magicless, clears the Haunted Condition, and rolls her Shadows; each success removes one Shadows dot.
 
@@ -48,8 +47,8 @@ Resolving Haunted is the simplest way to remove a Shadows dot; once that Conditi
 | 8-again  | The Princess meets a large group of people suffering due to the taint             |
 | Rote     | The Princess meets a crowd of people suffering due to the taint                   |
 
-# Tags
 
+# Tags
 #pth-v/princess/disadvantage
 #pth-v/sensitivity #pth-v/shadows
 #splat-mechanic/disadvantage

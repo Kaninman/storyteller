@@ -10,9 +10,7 @@ tags:
   - splat-mechanic/potency-stat
   - pth-c
 ---
-
 # Inner Light
-
 Inner Light is the measure of a Princess’s radiant soul and how powerfully it can beat back the Darkness. It is only a few flickering embers when she Blossoms, but it will grow with her, and warm and illuminate everyone around her.
 
 Inner Light determines a Princess’s maximum Attributes in her mundane and Transformed states, her pool of Wisps, and the extent of her Sensitivity.
@@ -20,7 +18,6 @@ Inner Light determines a Princess’s maximum Attributes in her mundane and Tran
 Because Princesses can Flare their Belief or have it penalized by Shadows, their effective Inner Light can go up and down in play. You are able to buy Merits, Attributes, and other character aspects that require higher Attributes, Skills, and Inner Light than you have at baseline; if so, they are inert and inactive until you flare your Inner Light enough to meet the requirements.
 
 # Flaring Belief
-
 Inside all of us is the potential for greatness so long as we’re willing to push ourselves. Our Inner Light may seem weak, but that is only because we keep it shrouded and hidden. The more we expose, the more we invest, the more we risk ourselves and our self-image to gain our goals, the brighter and more powerful the Inner Light blazes. Stoking this power is known as Flaring your Belief.
 
 Flaring takes no action or roll. When you Flare, several things happen. First, if you Flared in response to a die roll you made, you may reroll it (you must take the reroll result).
@@ -38,7 +35,6 @@ At the end of a chapter, if you accomplished the overall goal you Flared in purs
 If you fail to accomplish the goal in a reasonable amount of time, you lose all stacks of the Condition, AND an entire dot of Belief. Without the Circle Merit (p. 82) you don’t even roll for this, automatically suffering a Dramatic Failure on the Compromise roll. Any Lasting Condition from this failure is removed when and if you get the Belief back.
 
 # Putting It All On The Line
-
 A Princess may have a maximum number of stacks of Emotionally Invested equal to half her Belief, rounded up. Once she has that many, she’s invested as far as she can go—she is Putting It All On The Line.
 
 If a Princess gains the maximum stacks of Emotionally Invested in pursuit of a significant goal and then resolves it successfully, she may choose to regain one dot of Belief.
@@ -61,6 +57,5 @@ If a Princess gains the maximum stacks of Emotionally Invested in pursuit of a s
 | 12          | 10             | 108       | 108           |
 
 # Tags
-
-#pth-c/princess/potency-stat #pth-c/belief #pth-c/circle-merit
+#pth-c/princess/potency-stat #pth-c/belief #pth-c/circle-merit 
 #splat-mechanic/potency-stat

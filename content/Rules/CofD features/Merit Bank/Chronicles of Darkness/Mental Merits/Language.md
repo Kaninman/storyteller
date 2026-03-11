@@ -1,6 +1,5 @@
 ---
 prerequisite:
-  - none
 dots:
   - "1"
 source: Chronicles of Darkness
@@ -16,6 +15,10 @@ tags:
   - merit/universal/mental
   - merit/universal
 ---
+# Language (•)
+Your character is skilled with an additional language, beyond her native tongue. Choose a language each time you buy this Merit. Your character can speak, read, and write in that language. ^merit
 
-Your character is skilled with an additional language, beyond her native tongue. Choose a language each time you buy this Merit. Your character can speak, read, and write in that language.
+# Tags
 #merit/mental
+#merit/universal/no-prereq
+#merit/universal/mental 

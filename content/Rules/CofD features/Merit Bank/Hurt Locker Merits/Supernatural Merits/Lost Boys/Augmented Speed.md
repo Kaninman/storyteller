@@ -21,10 +21,11 @@ tags:
   - merit/mortal/supernatural
   - merit/lost-boys
 ---
+# Augmented Speed (• to •••••)
+***Prerequisites:** [[The Protocol]] of equal Level*
+Effect: Your character’s muscles and reflexes have been tightened, and her body structured to handle greater stress. For each dot in this Merit, add +1 to your character’s Speed and Initiative scores.
 
-Prerequisites: Protocol: Equal Level
-Effect: Your character’s muscles and reflexes have been
-tightened, and her body structured to handle greater stress.
-For each dot in this Merit, add +1 to your character’s Speed
-and Initiative scores.
 Deprived: Add +2 to Speed instead of +1 per dot.
+
+# Tags 
+#merit/mortal/supernatural #merit/lost-boys 

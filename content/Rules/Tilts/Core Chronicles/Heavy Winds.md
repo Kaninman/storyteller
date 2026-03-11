@@ -5,10 +5,9 @@ tilt-type:
   - environmental
 source: Chronicles of Darkness
 page: 283
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-HeavyWinds.jpg]]"
+thumbnail: "[[Tilt-HeavyWinds.jpg]]"
 dg-publish: true
 ---
-
 Description: Howling winds buffet at the characters,
 whipping street furniture into the air and tearing the roofs
 from buildings. Powerful winds can toss cars around like

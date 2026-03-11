@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Even though it didn’t exist in the Fearless Kingdoms, the Transformation is probably the most fundamental and useful part of a Noble’s magic. Transformation allows them to assume their “perfected self”, the person they could have been, someone untainted by this world of clawing Darkness. When you aren’t Transformed, you’re in your “mundane identity.” It’s not a separate identity with its own wants and desires with whom you war for control—your perfected self is you but moreso. Your perfected self grows and develops with you, as you learn more about yourself, who you truly are and who you wish to be.
 
 Transformation grants Princesses increased skills and capabilities, allows them to cast Charms, summons their Re- galia to them—and perhaps most importantly, looks like a completely different person. This is what allows a Princess to maintain her personal friendships while engaging in activity that malicious powers want to put a stop to. Creatures of the Darkness can’t target your loved ones when they have no idea who your loved ones are. Princesses and their magic are generally terrible at remaining hidden or inconspicuous. Even rogues and thieves work by misdirection rather than concealment, so remaining in your mundane identity is ideal for when you need to escape notice.

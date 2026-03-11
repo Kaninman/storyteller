@@ -18,7 +18,6 @@ tags:
   - merit/mortal/supernatural
   - merit/lost-boys
 ---
-
 Effect: Your character has materials laced beneath her skin
 which protect her internal tissues. At two dots, this is 1/1 armor.
 At four dots, this is 2/2 armor. This armor stacks with worn armor.

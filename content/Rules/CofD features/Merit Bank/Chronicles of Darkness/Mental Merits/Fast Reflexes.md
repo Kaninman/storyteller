@@ -20,8 +20,11 @@ tags:
   - merit/universal/combat
   - merit/universal
 ---
+# Fast Reflexes  (• to •••)
 
-+1 Initiative per dot
-Your character’s reflexes impress and astound; she’s always fast to react.
+***Prerequisites:** Wits •••, Dexterity •••*
+Effect: +1 Initiative per dot 
+Your character’s reflexes impress and astound; she’s always fast to react. 
 
+# Tags
 #merit/mental

@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Swords—allows Medicine to be used instead of Crafts
 
 Some injuries last longer and run deeper than the things modeled by damage mechanics. You need to put people back together, sometimes.

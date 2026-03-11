@@ -9,7 +9,6 @@ splat: demon
 power-type: demon augmentation
 dg-publish: true
 ---
-
 The God-Machine utilizes angels to gather much of its information. Some angels gather the information directly
 through observation, while others extract information from the source. Some angels have the task of spying and are required to listen and report findings back to the God-Machine. The angels are equipped with devices that allow them to pick up the slightest of sounds. Many demons find that such an acute sense of hearing helps them not only spy on others, but stay alert to their surroundings.
 

@@ -16,9 +16,8 @@ tags:
   - merit
   - merit/splat
 ---
-
 Effect: Your character’s instincts protect her when in her canine forms. In Urhan and Urshul, use the higher of your character’s Wits and Dexterity when figuring her Defense, instead of the lower.
 
-# Tags
 
+# Tags
 #merit/werewolf/combat

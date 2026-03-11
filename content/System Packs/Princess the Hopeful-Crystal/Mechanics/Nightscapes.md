@@ -7,7 +7,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 # Nightscape
 
 Humanity’s collective hope and dreams made the Dreamlands, but every mind is a world unto itself. A Nightscape is when the Darkness of fear twists the Light of aspiration with terror, and instead of flowing together with the
@@ -28,7 +27,6 @@ Nightscapes always have some way in and out, and the Nightmares therein can free
 Nightscapes, being attuned simply means finding one of the designated doorways where you can walk in and out. Those that are more removed from the world might require you to solve a symbolic puzzle or riddle to open a gateway, wander into a Bleed and then wander out in the right way, or re-create a situation or action that aligns with the Nightscape’s fear in a significant location to carry you over into its world. If you’re really unlucky, the Nightscape is only accessible from the Dark World and you have to go in through a Gate or Bleed first and then get access from the other side; this is usually how Defilers reinforce a Nightscape they’ve taken over.
 
 # Prisoners
-
 The Prisoner of a Nightscape is the one who made it. The name is apt, as they are trapped by their Nightscape, usually physically and always emotionally. Sometimes they seem to be the ruler there, but their apparent power only reifies the compulsive psychodrama the Nightscape embodies for them. They command the Nightmares within,
 but only to direct how they inflict the Prisoner’s own punishment.
 
@@ -47,7 +45,6 @@ like we can check. Actively examining a potential Prisoner for signs of magical 
 If you’ve filled at least half the Enigma track of the Nightscape without figuring out who the Prisoner is, that’s enough to start using magical detection to rule Prisoners out.
 
 # Psychodrama
-
 The psychodrama is the core psychological narrative the Nightscape exists for and acts through, the fundamental story the Prisoner sees themselves occupying. Whether the Prisoner looks like they are in charge or that they are the victim, they’re the Prisoner because they can’t escape it. When they think of what their life is, or what all life is, this is the only thing they can think of. If the Nightscape can be said to have an Aspiration, it’s the psychodrama.
 
 Often, geography and terrain in a Nightscape is exaggerated or stylized: looming walls made of cribs, bodies made up of collages of advertisements, all color save black and white drained from the world—what a visitor sees is how the Prisoner interprets the world in their mind, not the data their eyes convey to them, and the “art style” is often a hint to the personality of the Prisoner or the nature of their pain.
@@ -55,9 +52,7 @@ Often, geography and terrain in a Nightscape is exaggerated or stylized: looming
 Some psychodramas are narrow. Bruce Wayne’s Nightscape, for example, is going to be one single thirty-second span of time repeating over and over, tiled endlessly, of his parents killed in an infinite procession of Crime Alleys. Some are broader. Someone deeply traumatized in high school might be in a Nightscape high school, where all sorts of high school activities take place tinged with the same anxious emotional atmosphere. Someone else’s Nightscape might look like the normal world, but the things happening in it always focus on the same core pain. The basketball court, corner store, and office contain all the expected people; but they are all enacting scenes of betrayal and humiliation.
 
 Combatting the psychodrama is the major way to deal Psyche damage and eventually resolve the Nightscape. This locked pattern is all the Prisoner thinks there is to the world; your job is to show them things don’t have to work this way. You can deal Psyche damage to the Nightscape by direct conversation with the Prisoner or important figures, but often—especially when you can’t get at the Prisoner in the core—you’ll need to take on a role in the psychodrama and force it off the rails, into a situation that contradicts the narrative. You can’t just run in and end the psychodrama scene by punching everyone (unless it’s a very rare and specific kind of scene), you have to grab the role assigned to you and then “yes, and” it in a different direction.
-
 # Residents
-
 The Nightscape is populated from the Prisoner’s mind, memories, and perceptions. The most notable occupants are Nightmares, the monsters who actively go out and inflict fear on others to fuel the Nightscape—but there are others, perhaps just as nightmarish, but limited to supporting parts within the psychodrama. The population of the Nightscape’s psychodrama scenes are filled out with Extras, who have less definition and independence than Nightmares and just exist to fill their specific roles in the psychodrama. Rather than individual stat blocks, just use the dice pools of the Nightscape itself to adjudicate their actions.
 
 Halfway in between is a Caricature—a special case. It’s not a Nightmare but it’s not an Extra. Rather, it’s a copy of the Prisoner. Sometimes they’re left as a replacement for the Prisoner in their real lives, and sometimes there’s multiples of them inside the Nightscape, spawning when the Prisoner has too much happening to them to experience it alone. The Caricature isn’t self-aware and has the limited cognition of the Extras, and doesn’t “know” it’s a construct of the Nightscape, nor does the Prisoner know what happens to it. It has no supernatural powers whatsoever, not even the ones that the Nightscape itself can manifest.

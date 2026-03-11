@@ -9,7 +9,6 @@ tags:
 ---
 
 # 0 Cover
-
 THE BURNED
 Unlike the protagonists in many other World of Darkness games, a demon who is reduced to 0 Cover
 isn’t automatically forfeit to the Storyteller. You can continue playing a demon at 0 Cover (also known as the
@@ -20,8 +19,6 @@ suffers the following effects:
 a new Cover.
 • She cannot regain Cover; she has to establish a new Cover altogether (see p. 116) in order to get her rating
 back above 0.
-
 # Tags
-
 #wip #dtd/demon/advantage/cover #dtd/cover
-#splat-mechanic/advantage
+#splat-mechanic/advantage 

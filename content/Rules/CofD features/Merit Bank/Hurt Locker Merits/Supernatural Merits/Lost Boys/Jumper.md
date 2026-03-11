@@ -19,7 +19,6 @@ tags:
   - merit/mortal/supernatural
   - merit/lost-boys
 ---
-
 Effect: Your character’s legs have been enhanced to im-
 prove her ability to jump, and to handle the landing. Each
 level of this Merit increases the ability.

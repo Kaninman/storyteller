@@ -18,8 +18,11 @@ tags:
   - merit/universal
   - chase-rules
 ---
+# Relentless (•)
+***Prerequisites:** Athletics ••, Stamina •••*
 
-Prerequisites: Athletics ••, Stamina •••
-Effect: Your character will not stop running, whether away from a pursuer or toward prey. In any chase (see p. 84) your opponents must achieve two additional successes against yours to catch her or elude her.
-#chase-rules
+Effect: Your character will not stop running, whether away from a pursuer or toward prey. In any chase (see p. 84) your opponents must achieve two additional successes against yours to catch her or elude her. ^merit
+
+# Tags
+#chase-rules 
 #merit/physical

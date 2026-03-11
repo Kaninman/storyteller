@@ -6,10 +6,9 @@ tilt-type:
   - mental
 source: Chronicles of Darkness
 page: 285
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-Insenate.jpg]]"
+thumbnail: "[[Tilt-Insenate.jpg]]"
 dg-publish: true
 ---
-
 **Description:** The character shuts down, either due to extreme fear or sudden pleasure. He may huddle in a corner, cringe away from sudden noises, or stare into space as waves of pleasure lap over him.
 
 **Effect:** The character can’t take any actions until the Tilt is resolved. He can apply Defense to incoming attacks, and if he takes any damage from an attack, he’s knocked free of whatever fogged his brain.

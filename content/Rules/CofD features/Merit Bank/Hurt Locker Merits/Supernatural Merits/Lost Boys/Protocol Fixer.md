@@ -22,7 +22,6 @@ tags:
   - merit/mortal/supernatural
   - merit/universal/connections
 ---
-
 Prerequisites: The Protocol •
 Effect: Your character has access to a Delta Protocol
 fixer, who provides the necessary Serum to keep her body

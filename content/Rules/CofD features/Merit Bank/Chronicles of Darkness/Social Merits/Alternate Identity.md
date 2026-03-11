@@ -17,15 +17,9 @@ tags:
   - merit/universal/social
   - merit/universal
 ---
-
-# Prerequisites
-
-None
-
-# Mechanics
-
+# Alternate Identity (• to •••)
 Effect: Your character has established an alternate identity.
-The level of this Merit determines the amount of scrutiny it holds up to.
+The level of this Merit determines the amount of scrutiny it holds up to. 
 
 At one dot, the identity is superficial and unofficial. For example, your character uses an alias with a simple costume and adopts an accent. She hasn’t established the necessary paperwork to even approach a bureaucratic background check, let alone pass one. At two dots, she’s supported her identity with paperwork and identification. It’s not liable to stand up to extensive research, but it’ll turn away private investigators and internet hobbyists. At three dots, the identity can pass a thorough inspection. The identity has been deeply entrenched in relevant databases, with subtle flourishes and details to make it seem real, even to trained professionals.
 
@@ -34,6 +28,6 @@ Additionally, the Merit reflects time the character has spent honing her persona
 This Merit can be purchased multiple times, each time representing an additional identity.
 
 # Tags
-
 #merit/universal/social #merit/universal #merit/dippable #merit
-#merit/social
+#merit/social #merit/universal/no-prereq 
+#merit/universal/no-prereq

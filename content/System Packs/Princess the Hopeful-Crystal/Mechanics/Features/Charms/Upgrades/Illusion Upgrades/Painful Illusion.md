@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Storms—allows Dexterity to be used instead of
 Wits
 

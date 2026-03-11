@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Storms—allows Strength to be used instead of Intelligence
 
 You can now mend the injury wrong, like when a bone knits together at the wrong angle. Instead of healing damage, you cause it to become Resistant and unable to heal by magical means. This is itself a magical effect so it can be dispelled, but dispelling it is part of the same injury, so the attempt needs to accumulate enough successes to get through both. Every roll you make as part of the extended action to cast Caustic Restoration costs one Wisp, instead of just the first one.

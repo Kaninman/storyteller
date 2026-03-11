@@ -12,7 +12,6 @@ auspice: irraka
 gift-type:
 dg-publish: true
 ---
-
 Cost: 1 Essence
 Action: Reflexive
 The Irraka may activate this Facet as part of a Brawl or

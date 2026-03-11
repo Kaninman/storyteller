@@ -9,15 +9,13 @@ page: 239
 power-type: charm
 dg-publish: true
 ---
-
 # Mechanics
-
-> Requires Celestial Dance with Swift
-> Action: Instant
-> Dice pool: Dexterity + Athletics
-> Cost: 2 Wisps
-> Duration: 1 scene
-> The Noble can reach the speeds of a car on the open road.
+>Requires Celestial Dance with Swift
+Action: Instant
+Dice pool: Dexterity + Athletics
+Cost: 2 Wisps
+Duration: 1 scene
+The Noble can reach the speeds of a car on the open road.
 
 **Dramatic Failure:** The Noble trips over her own feet and falls. If in battle, she takes the Stunned Tilt [CofD 286].
 

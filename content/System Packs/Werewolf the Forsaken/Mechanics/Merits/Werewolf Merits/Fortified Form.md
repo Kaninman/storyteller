@@ -18,7 +18,6 @@ tags:
   - merit
   - merit/splat
 ---
-
 Effect: Your character has one form that’s particularly
 durable compared to her others. Choose a form other than
 Hishu when purchasing this Merit. That form has tougher
@@ -28,5 +27,6 @@ armor. The five dot offers 2/2 armor.
 You can take this Merit multiple times, reflecting armor
 in different forms.
 
-#merit/wtf/werewolf/physical
+
+#merit/wtf/werewolf/physical 
 #merit/physical

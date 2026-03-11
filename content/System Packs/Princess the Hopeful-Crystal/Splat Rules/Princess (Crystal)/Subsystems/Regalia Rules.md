@@ -9,9 +9,7 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 # Overall/Flavor
-
 When a Princess transforms, she doesn’t just assume the form of her perfected self: the tools and implements of her mission and Calling come to her hand. “Regalia” is the general term for all the objects and implements that come with transformation—your outfit, accessories, what have you—but dots in the Regalia Merit are what you use to build “Regalia Equipment” with mechanical benefits.
 
 Each piece of Regalia Equipment is rated at 1-5 dots, and are all custom-built by the player according to the charts and guidelines below by buying up all the different values and adding penalties to get more points. Each dot of Regalia gives the player 3 points of modifications, and the total points spent or gained by any of those modifications can’t exceed the Regalia’s dots +1. So you can’t take a one-dot Regalia for armor, dump the Defense penalty to -10, and then have 4 points of general armor.
@@ -21,8 +19,8 @@ Princesses can summon any and all Regalia as part of her Transformation, and whi
 Regalia is highly customizable because it, like everything about a Princess, is an expression of her personality and how she sees the world. Not only do you apply a bunch of equipment modifications to your Regalia Equipment, you can decide what form they take. As long as it gets across the idea of what the Regalia Equipment does, the stat block of your Regalia Equipment can represent any physical object you want. The same stat block for a weapon could represent a spiked oni club, a rocket sledgehammer, or a street sign apparently ripped out of the ground, so long as it looks like it could have the devastating power and cumbersome weight. Function is not impeded by form, so long as it gets across the idea—you can’t use this to make your Regalia inconspicuous and not appear to do anything, and it’s clear this is a Thing that Does Something.
 
 # Armor Regalia
-
 Armor Regalia is what you wear to protect your body and enhance your ability to survive attack. All Armor Regalia starts off with 1 Strength Requirement and 0 in every other attribute. It can penalize your Defense and Speed, or add to it by sacrificing other attributes in the name of being graceful and adept.
+
 
 | Modification         | Cost     |
 | -------------------- | -------- |
@@ -36,14 +34,13 @@ Armor Regalia is what you wear to protect your body and enhance your ability to 
 | Lower Defense        | +1       |
 | Lower Speed          | +1 per 2 |
 
-**Appearance:** Anything that you wear and looks like it can defend you can serve as Regalia Armor. It is always obvious that it’s defending you regardless of appearance.
+**Appearance:** Anything that you wear and looks like it can defend you can serve as Regalia Armor. It is always obvious that it’s defending you regardless of appearance. 
 
 Heavy armor focuses on armor values to prevent damage, while light armor focuses on adding Defense and Speed as opposed to direct protection. Heavy Armor at low dot ratings might be accessories like armored bracers and boots, then become light plate and ceremonial armor, or it could simply become thicker and more combat-focused. Light armor might look more formal or more chic, becoming a wedding outfit, a daring bespoke designer piece, or may- be something with flowing ribbons or veils. Heavy power armor looks like an OmniMech or the T-60 from Fallout, light power armor looks like an EVA unit or an articulated jet-boost frame.
 
 Whatever the form your armor takes, adding more frills is always an option.
 
 ## Tag Definitions
-
 **[[Combat#Armor|General Armor]]**: The amount of damage the armor stops. After applying ballistic armor, prevent this much damage from the attack, starting with the most severe. ^armorgen
 
 [[Combat#Armor|Ballistic Armor]]: The amount of damage the armor specifically stops from supersonic or high-speed ranged attacks. If an attack normally would deny your Defense, even if you had an ability that let you keep your Defense anyway, Ballistic Armor applies to it. For each point of ballistic armor, downgrade one point of lethal damage to one point of bashing damage, before applying general armor. ^armorbal
@@ -59,10 +56,10 @@ Weapons and abilities that negate Defense, most commonly guns, will go against B
 **Add Tag:** Add a special property to the armor, like being enclosed against environmental hazards, fireproof, insulating or self-cooling, absorbing fall damage, that kind of thing.
 
 # Weapon Regalia
-
 Weapon Regalia can be anything that lands hits, from something serious as a chain-and-sickle to a whimsical set of yo-yos, from the practical revolver to the fantastic magic wand.
 
 Weapons start with 1 Damage, 1 Strength Requirement, and 0 in everything else. Ranged weapons start with a range of “Short”, and they can use either Firearms or Athletics (chosen at creation), but the projectile is as slow as a thrown weapon and allows the defender to apply Defense.
+
 
 | Modification                  | Cost     |
 | ----------------------------- | -------- |
@@ -75,7 +72,6 @@ Weapons start with 1 Damage, 1 Strength Requirement, and 0 in everything else. R
 | Increase Strength Requirement | +1/dot   |
 | Lower Initiative              | +1 per 2 |
 | Add Drawbacks                 | +1 to +2 |
-
 ## Definitions
 
 **Damage:** The automatic damage dealt by attacks with this weapon when the attack roll succeeds. All weapons deal Lethal damage by default, but knowing the Kiai Charm allows you to deal bashing damage if you choose.^damagemod
@@ -84,7 +80,7 @@ Weapons start with 1 Damage, 1 Strength Requirement, and 0 in everything else. R
 
 **Add Accuracy:** Get +1 to attack rolls with this weapon for every Accuracy added. Since the Accurate tag only costs 1 point and this costs 2, you should only do this on weapons that already have Accurate.^accuracy
 
-**Increase Range:** For ranged weapons only. Improve the maximum range the weapon operates at. “Close” is from around arm’s reach up to 5 meters; ranged weapons have penalties at this range. “Short” (the starting value) is out of arm’s reach but up to 30m, Med up to 100, Long up to 300, and Extreme is beyond that. Distant firing is still subject to the normal range penalties, but if you fire a weapon outside its maximum distance the attack roll is reduced to a chance die.
+**Increase Range:** For ranged weapons only. Improve the maximum range the weapon operates at. “Close” is from around arm’s reach up to 5 meters; ranged weapons  have penalties at this range. “Short” (the starting value) is out of arm’s reach but up to 30m, Med up to 100, Long up to 300, and Extreme is beyond that. Distant firing is still subject to the normal range penalties, but if you fire a weapon outside its maximum distance the attack roll is reduced to a chance die.
 
 **Strength Requirement:** The Strength required to effectively wield the weapon. For each dot you’re lower than the requirement, all attacks with that weapon get a -1 penalty.
 
@@ -93,7 +89,6 @@ Weapons start with 1 Damage, 1 Strength Requirement, and 0 in everything else. R
 **Add Tags / Drawbacks:** Beneficial or detrimental extra properties of the weapon, listed below. Anything that allows you to add your weapon’s bonus to something, or double your weapon’s bonus, will allow you to add the lower of your Strength or Dexterity instead if the weapon’s bonus is lower than that. Everything is 1 point unless otherwise specified.
 
 ### Tag Definitions
-
 ★ **9-Again, 8-Again:** Attack rolls with this weapon gain 9-Again or 8-Again. You need to have 9-Again to buy 8-Again as a modification. ^xagain
 
 **★ Accurate:** Get +1 to attack rolls with this weapon. ^accurate
@@ -108,7 +103,7 @@ Weapons start with 1 Damage, 1 Strength Requirement, and 0 in everything else. R
 
 ★ **Buster:** This weapon also serves as Regalia for the Buster Charm. When you cast Buster, you apply its damage and traits to the roll (other than Burst and Autofire). ^buster
 
-★ **Charge:** You don’t have to sacrifice your Defense to make a charge attack with this weapon (CofD, p. 92) ^charge
+★ **Charge:** You don’t have to sacrifice your Defense to make a charge attack with this weapon (CofD, p. 92)  ^charge
 
 ★ **Charmed:** Not only can this Regalia be used like mundane equipment, you can cast an associated Charm (i. e., Kiai or Buster) through it while you’re not Transformed. Your Dual Identity won’t protect you from being associated with this magic, so be careful! Requires
 Practical. ^charmed
@@ -146,11 +141,9 @@ Practical. ^charmed
 ★ **Supersonic:** This weapon’s projectile travels faster than the speed of sound. The target is not normally entitled to Defense, but Ballistic Armor now applies. If the weapon has Medium or higher range, it’s also loud as hell. This costs 2 modifications to add. Ranged only. ^supersonic
 
 ★ **Two-Handed:** This weapon must be used in two hands. If it’s a melee weapon and you try to use it with one hand, all your attacks are -1; if it’s a ranged weapon it straight up can’t be used without both hands. This is a drawback, so it grants 1 modification. ^twohanded
-
 # Charm Regalia
 
 # Tags
-
 #pth-c/regalia
 #splat-equipment
 #merit-equipment

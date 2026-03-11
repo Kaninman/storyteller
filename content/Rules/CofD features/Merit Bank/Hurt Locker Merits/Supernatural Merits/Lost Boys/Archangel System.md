@@ -16,6 +16,8 @@ tags:
   - merit/mortal/supernatural
   - merit/lost-boys
 ---
+# Archangel System (•••••)
+***Prerequisite:** [[The Protocol|Protocol •••••]]*
 
 Effect: The Archangel System is a suite of nerve, muscular, and tissue enhancements which, when activated, push the subject’s body to its peak (and beyond). When active, your character has a faint, reddish-gold glow from under her skin as if she held a flashlight under her palm. It doesn’t look inherently supernatural unless in a dark place. Activating the Archangel System is reflexive, but costs 1 Willpower. It introduces a series of advantages for the remainder of the scene.
 
@@ -26,5 +28,9 @@ Effect: The Archangel System is a suite of nerve, muscular, and tissue enhanceme
 - Her unarmed attacks cause lethal damage.
 - Add +2 to her Initiative, and +5 to her Speed.
 - She heals one point of bashing damage per turn.
-- She gains 1/1 armor. This combines with worn armor.
-  At the end of the scene, your character becomes Deprived. If she’s already Deprived, she suffers full withdrawal. Any lethal damage she suffers at the end of the scene becomes aggravated.
+- She gains 1/1 armor. This combines with worn armor. 
+At the end of the scene, your character becomes Deprived. If she’s already Deprived, she suffers full withdrawal. Any lethal damage she suffers at the end of the scene becomes aggravated.
+
+
+# Tags
+#merit #merit/mortal/supernatural #merit/lost-boys 

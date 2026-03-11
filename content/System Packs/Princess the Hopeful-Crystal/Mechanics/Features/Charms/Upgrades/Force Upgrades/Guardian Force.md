@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Jewels—allows Presence to be used instead of Strength
 Your locus may track an individual or object, retaining its position and factoring its movement relative to that thing. This anchor point is chosen when you cast Force and can’t be changed without casting Force again.
 

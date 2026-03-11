@@ -6,10 +6,9 @@ tilt-type:
   - physical
 source: Chronicles of Darkness
 page: 285
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-KnockedDown.jpg]]"
+thumbnail: "[[Tilt-KnockedDown.jpg]]"
 dg-publish: true
 ---
-
 **Description:** Something knocks the character to the floor, either toppling her with a powerful blow to the chest or taking one of her legs out from under her.
 
 **Effect:** The character is knocked off her feet. If she hasn’t already acted this turn, she loses her action. Once she’s on the ground, a character is considered prone. The character can still apply Defense against incoming attacks, and can attempt to attack from the ground at a -2 penalty.

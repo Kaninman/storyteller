@@ -11,7 +11,6 @@ tags:
   - ephemeral-stuff/manifestation-condition
   - ephemeral-stuff
 ---
-
 **Description:** The entity has shifted from ephemeral to material substance, manifesting in physical form. All the rules for ephemeral entities’ traits still apply, except for the effects of being in Twilight. This Condition protects the entity from Essence Bleed for its duration.
 
 **Causing the Condition:** This Condition is created by an entity using the Materialize Manifestation Effect on an Open Condition. If the Open Condition used is on an object or person, the entity must materialize within its Rank in yards.
@@ -23,6 +22,5 @@ tags:
 **Ending the Condition:** The Condition ends if the prerequisite Condition is removed. Exorcism rituals work by removing this Condition, reverting it to the prerequisite.
 
 # Tags
-
-#ephemeral-stuff
+#ephemeral-stuff 
 #ephemeral-stuff/manifestation-condition

@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Flowers—allows Survival to be used instead of Occult
 
 Your blessing may now include “Conditions and Tilts you specify are prevented from being applied and ongoing Conditions are suppressed while near the talisman. This doesn’t work on Lasting Conditions. This works on one Condition or Tilt plus one more for each charge spent.”

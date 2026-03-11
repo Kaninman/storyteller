@@ -11,7 +11,6 @@ tags:
   - ephemeral-stuff/manifestation-condition
   - ephemeral-stuff
 ---
-
 **Description:** This object, corpse, or living being is being temporarily controlled by an ephemeral entity. Living hosts are put into a coma-like state while being possessed; they experience the possession as missing time, aside from flashbacks that might come out in dreams or times of stress such as losing Integrity. The entity may not use Numina or Influences while controlling the host, but is safe from Essence Bleed for as long as the possession lasts.
 
 The entity may pay one Essence per turn to heal a lethal or bashing wound or a point of structure lost to damage. Corpses that died from damage begin Possession incapacitated, and must be “healed” with Essence Entities possessing inanimate objects or corpses have a great deal of control over their host. An entity controlling an object can’t make it do anything it couldn’t do while being operated, but it can turn switches on and off, operate machinery, use keyboards, and turn dials. Use the entity’s Finesse if dice rolls are necessary.
@@ -26,8 +25,6 @@ To possess a host, the entity must remain in Twilight, superimposed over the hos
 **Causing the Condition:** This Condition is created by an entity using the Possess Manifestation Effect. The object or victim must be under the Open Condition, tagged to the entity.
 
 **Ending the Condition:** The possession lasts for a single scene, unless the entity abandons it early or the host is killed or destroyed. Abjurations, exorcisms, and forced contact with banes and bans can all motivate an entity to release a host.
-
 # Tags
-
-#ephemeral-stuff
+#ephemeral-stuff 
 #ephemeral-stuff/manifestation-condition

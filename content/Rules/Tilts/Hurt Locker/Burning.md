@@ -6,10 +6,9 @@ tilt-type:
   - physical
 source: Hurt Locker 1
 page: 143
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-Burning.jpg]]"
+thumbnail: "[[Tilt-Burning.jpg]]"
 dg-publish: true
 ---
-
 You have been set ablaze and will continue to burn until you somehow douse the flames.
 
 **Effect:** You take automatic damage each turn equal to the 1 + the heat level of the fire, in addition to suffering the Blinded Tilt.

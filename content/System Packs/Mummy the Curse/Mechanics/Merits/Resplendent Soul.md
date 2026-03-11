@@ -1,6 +1,6 @@
 ---
 prerequisite:
-  - affected pillar 3
+  - affected pillar 3 
   - or
   - sekhem 2
 dots:
@@ -18,7 +18,6 @@ tags:
   - merit/splat
   - timeless-merit
 ---
-
 Effect: One of the Pillars of your soul shines brightly. This
 Merit may only be taken once.
 Mummies receive a secondary defining Pillar. While

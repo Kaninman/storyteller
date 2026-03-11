@@ -15,7 +15,6 @@ tags:
   - beatless-condition
   - pth-c
 ---
-
 You have lost all Belief, and thus all conviction. Not just conviction in your virtue or conviction in your cause—conviction that there’s any point in continuing to draw breath. Listless and enervated, with no joy in or respite from anything, your soul disintegrates like wet newspaper. You cannot access any of the aspects of the Princess template, not even your Drive and Dread. You cannot regain or spend Willpower or Wisps for any reason. You lose a Willpower dot every day you have this Condition.
 
 **Cause:** You lost all your Belief.
@@ -25,6 +24,5 @@ You have lost all Belief, and thus all conviction. Not just conviction in your v
 The second is, you lose your last Willpower dot, and die. If you don’t die by your own hand, your body just gives up. However it happens, the Darkness gives you one final offer: accept it and become Enthroned.
 
 # Tags
-
 #pth-c
-#condition/emotional
+#condition/emotional 

@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Jewels—allows Persuasion to be used instead of Science
 
 Your valid actors now include “other human beings, or supernatural creatures analogous to humans.” This Upgrade doesn’t care about any existential questions about what it truly means to be human, and can pick up anyone who is able to ask themselves that question.

@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Tears
 
 Melt into the shadows and escape. One of the only abilities in a Princess’ entire repertoire that can actually conceal them, when you move with Step Away, you are able to make a Dexterity + Stealth roll to evade detection even from people who were looking right at you.

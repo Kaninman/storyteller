@@ -11,9 +11,8 @@ tags:
 ---
 
 # Tags
-
-#lore #lore/splat-antagonist/entity #lore/character/mythic
+#lore #lore/splat-antagonist/entity  #lore/character/mythic 
 #wip #empty
 
 #pth-c/lore
-#lore/pth-c
+#lore/pth-c 

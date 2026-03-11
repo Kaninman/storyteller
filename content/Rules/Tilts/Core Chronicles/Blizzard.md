@@ -5,11 +5,10 @@ tilt-type:
   - environmental
 source: Chronicles of Darkness
 page: 281
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-Blizzard.jpg]]"
+thumbnail: "[[Tilt-Blizzard.jpg]]"
 dg-publish: true
 ---
-
-Heavy snowfall carpets the ground and is whipped up by howling winds into a barrage of whirling white.
+ Heavy snowfall carpets the ground and is whipped up by howling winds into a barrage of whirling white.
 
 **Effect:** Blizzards make it very hard to see for any real distance. Rolls to see things close to the character’s person, out to an arm’s length away, suffer a -1 penalty. Each additional 10 yards inflicts an additional -1 penalty (cumulative) on all visual Perception rolls. This penalty also applies to ranged attack rolls. Moving through snow is difficult. Every four inches of snow applies a -1 penalty to appropriate Physical rolls, including combat rolls, Athletics, and the like. The Blizzard Tilt rarely applies by itself — the Storyteller may also inflict any or all of the Extreme Cold, Heavy Winds, or Ice Tilts (all found below).
 

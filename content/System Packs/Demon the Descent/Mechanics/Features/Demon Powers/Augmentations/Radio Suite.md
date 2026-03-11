@@ -9,7 +9,6 @@ splat: demon
 power-type: demon augmentation
 dg-publish: true
 ---
-
 Radio Suite gives the Unchained a full collection of radio
 receiving and broadcasting equipment installed throughout
 her flesh.

@@ -19,7 +19,6 @@ tags:
   - merit/mortal/supernatural
   - merit/lost-boys
 ---
-
 Prerequisites: Protocol: Equal Level
 
 Effect: Your character’s senses have been honed to alarm-

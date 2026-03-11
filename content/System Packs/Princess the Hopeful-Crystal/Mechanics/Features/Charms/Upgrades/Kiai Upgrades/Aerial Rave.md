@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Spades
 
 Your strike moves the target around, bringing them towards you or sending them flying. The distance is determined by the number of charges you spent on this Upgrade; you always get two “free” charges to spend before choosing to spend more. You may combine different uses of these charges if, say, you want to pull someone towards you and then launch them away in another direction.

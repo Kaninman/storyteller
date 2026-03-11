@@ -6,10 +6,9 @@ tilt-type:
   - physical
 source: Chronicles of Darkness
 page: 286
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-Poisoned.png]]"
+thumbnail: "[[Tilt-Poisoned.png]]"
 dg-publish: true
 ---
-
 **Description:** You’ve got poison inside you. It’s tearing you apart from the inside, burning like acid in your gut and making your head swim.
 
 **Effect:** This Tilt applies a general sense of being poisoned to a character without worrying about Toxicity during combat. For the purposes of this Tilt, a poison is either “moderate” or “grave” — a moderate poison causes one point of bashing damage per turn of combat, while a grave poison ups that to one point of lethal damage per turn. If the Storyteller cares to continue the effects of the poison outside of combat, he can apply the standard rules for handling poisons and toxins when combat is complete.

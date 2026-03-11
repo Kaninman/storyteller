@@ -13,15 +13,12 @@ tags:
   - pth-c
   - pth-c/signet
 ---
-
 You gain the “Hydro” Infusion Upgrade for two of your Charms:
 
 “This Charm is infused with the power of Acqua, granting it an ability related to water, ice, currents, or coldness.”
 
-**Examples:** _A Conjure that can immediately spit out a lake’s worth of water. A Force, Kiai, or Buster that freezes things solid. Restorations and Ward talismans in the form of holy water to be split up, sprinkled about, and used by anyone you give the water to. A Step that allows you to drop into a puddle and emerge from another. An Illusion that can mass-manipulate temperature._
-
+**Examples:** *A Conjure that can immediately spit out a lake’s worth of water. A Force, Kiai, or Buster that freezes things solid. Restorations and Ward talismans in the form of holy water to be split up, sprinkled about, and used by anyone you give the water to. A Step that allows you to drop into a puddle and emerge from another. An Illusion that can mass-manipulate temperature.*
 # Tags
-
 #pth-c #pth-c/signet #pth-c/element-infused
 
 #pth-c

@@ -22,7 +22,6 @@ tags:
   - merit/style
   - strength-merit
 ---
-
 Effect: While the Strength Attribute covers all forms of issuing bodily force, your character has specifically trained in lifting, pushing, and pulling enormous weights. He learned this as an Olympic-style weightlifter, strongman competitor, or performer. This doesn’t help your character hit things, but if he does, anything at the other end is going to break and hurt. ^blurb
 
 In addition to learning maneuvers, at ••• dots your character can actually increase in Size after adding prodigious amounts of muscle. You may purchase the Giant Merit for your character during play, or if he began play as Small-Framed, get back the Experience value of those Merit dots while increasing to Size 5, and losing its benefits. (Your character can’t do one after the other — there’s a limit to what her skeleton can support.) Your character must have had Strength Performance ••• for at least one year, and you must tell the Storyteller your character is trying to get bigger. No character can move from Giant to Size 7 this way, and any Size change is optional — small people can still max out in this style. ^sizegrow

@@ -6,10 +6,9 @@ tilt-type:
   - physical
 source: Hurt Locker 1
 page: 143
-thumbnail: "[[public/GOD-MACHINE/Rules/CofD-ImageBank/Tilt-PiercedArmor.webp]]"
+thumbnail: "[[Tilt-PiercedArmor.webp]]"
 dg-publish: true
 ---
-
 Repeated rounds or devastating attacks have rent your armor.
 
 **Effects:** Your armor is damaged and functions at reduced effectiveness. Halve its effective values, rounded down, until you have had time to repair or readjust the armor.

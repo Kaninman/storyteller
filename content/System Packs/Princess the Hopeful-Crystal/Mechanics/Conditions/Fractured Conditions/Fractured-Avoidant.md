@@ -14,13 +14,10 @@ tags:
   - condition/mental
   - pth-c
 ---
-
-Your fears constantly appear in the corners of your vision, because they’re spilling out from inside your head.
+Your fears constantly appear in the corners of your vision, because they’re spilling out from inside your head. 
 
 You must now pay a Willpower to act in spite of your Dread in situations where the source of fear is so minor you would gain a Willpower from avoiding it (and otherwise would endure no cost).
-
 # Tags
-
-#condition #condition/pth-c/fractured #condition/mental
+#condition #condition/pth-c/fractured #condition/mental 
 #pth-c
 #pth-c

@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Flowers—allows Survival to be used instead of Investigation
 You gain postcognition, the ability to see into the past. You may now pick the sense option:
 ★ “According to what happened in the past…”

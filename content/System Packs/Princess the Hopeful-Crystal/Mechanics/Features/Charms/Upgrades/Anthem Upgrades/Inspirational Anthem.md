@@ -9,7 +9,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Jewels—allows Composure to be used instead of Presence
 “We are the champions, my friend… And we’ll keep on fighting ‘til the end…”
 

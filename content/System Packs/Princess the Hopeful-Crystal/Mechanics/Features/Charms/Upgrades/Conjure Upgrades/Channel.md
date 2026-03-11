@@ -8,7 +8,6 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 This is an advanced Upgrade. It counts as two Upgrades when applied to a Charm.
 
 When you summon an actor with this Upgrade, they are not physically transported to you. Instead, you synchronize their presence, skills, and assistance with someone in the scene: usually yourself, but it can also be anyone else that’s a valid actor for your summon (or an object an ephemeral being could possess). This summoning is not broken when combat starts.

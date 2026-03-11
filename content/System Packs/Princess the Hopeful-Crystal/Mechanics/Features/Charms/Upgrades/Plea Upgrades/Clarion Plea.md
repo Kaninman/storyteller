@@ -9,10 +9,9 @@ dg-publish: true
 tags:
   - pth-c
 ---
-
 Gifted to Princesses of Currents—allows Intelligence to be used instead of Presence
 
-You want to stir emotion, but to do that, sometimes you need to clear away what obscures or muddles the clarity of the call. They can’t listen if they don’t understand.
+You want to stir emotion, but to do that, sometimes you need to clear away what obscures or muddles the clarity of the call. They can’t listen if they don’t understand. 
 
 With Clarion Plea, the favor you ask for may be “and please remove this mental Tilt or Condition from yourself, or suppress this Persistent mental Condition from yourself for the rest of the scene.”
 
